@@ -35,9 +35,14 @@
 
 #### KVS
 
+* [multiplatform-settings](https://github.com/russhwolf/multiplatform-settings) - For mobile apps to save settings as key-value pairs.  
+![badge][badge-android]
+![badge][badge-native]
+
 * [Kissme](https://github.com/netguru/Kissme) - This library provides encrypted key-value storage.  
 ![badge][badge-android]
 ![badge][badge-native]
+
 
 * [Multiplatform-Preferences](https://github.com/florent37/Multiplatform-Preferences) - Kotlin Multi Platform Preferences, for android an ios : SharedPreferences & NSUserDefault.  
 ![badge][badge-android]
@@ -171,6 +176,11 @@
 ![badge][badge-jvm]
 
 ### GUI
+
+* [kgl](https://github.com/Dominaezzz/kgl) - This library provides a thin OOP wrapper with DSLs to make programming with vulkan easier.  
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
 
 * [kotlin-libui](https://github.com/msink/kotlin-libui) - This is a C lightweight multi-platform UI library using native widgets.  
 ![badge][badge-linux]
