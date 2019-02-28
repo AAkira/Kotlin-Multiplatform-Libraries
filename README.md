@@ -159,8 +159,6 @@
 * [Multiplatform-Log](https://github.com/florent37/Multiplatform-Log) - Logging library for Kotlin Multiplatform.  
 ![badge][badge-android]
 ![badge][badge-native]
-![badge][badge-js]
-![badge][badge-jvm]
 
 ### Test
 
