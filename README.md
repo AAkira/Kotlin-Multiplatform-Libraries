@@ -167,6 +167,11 @@
 
 ### Test
 
+* [Atrium](https://github.com/robstoll/atrium) - assertion library.  
+![badge][badge-android]
+![badge][badge-js]
+![badge][badge-jvm]
+
 * [konform](https://github.com/konform-kt/konform) - Portable validations.  
 ![badge][badge-js]
 ![badge][badge-jvm]
