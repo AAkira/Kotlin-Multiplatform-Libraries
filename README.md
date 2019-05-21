@@ -85,6 +85,13 @@
 
 #### Rx
 
+* [Reaktive](https://github.com/badoo/Reaktive) - Kotlin multi-platform implementation of Reactive Extensions  
+![badge][badge-android]
+![badge][badge-native]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+
 * [RxCommon](https://github.com/noheltcj/RxCommon) - ReactiveX providing a common way to build one set of business logic.  
 ![badge][badge-android]
 ![badge][badge-native]
