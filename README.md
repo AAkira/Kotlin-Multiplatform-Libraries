@@ -139,6 +139,18 @@
 ![badge][badge-windows]
 ![badge][badge-mac]
 
+#### String Utils
+* [FuzzyWuzzy-Kotlin](https://github.com/willowtreeapps/fuzzywuzzy-kotlin) - Fuzzy string matching on collections.  Port of python & java library.
+
+![badge][badge-android]
+![badge][badge-native]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+![badge][badge-wasm]
+
 #### Analytics
 
 * [measurer](https://github.com/soushin/measurer) - Google Analytics(using measurement protocol).  
@@ -224,4 +236,5 @@ Please read the [contribution guidelines](Contributing.md) first.
 [badge-linux]: http://img.shields.io/badge/platform-linux-important.svg?style=flat 
 [badge-windows]: http://img.shields.io/badge/platform-windows-informational.svg?style=flat
 [badge-mac]: http://img.shields.io/badge/platform-macos-lightgrey.svg?style=flat
+[badge-wasm]: https://img.shields.io/badge/platform-wasm-darkblue.svg?style=flat
 
