@@ -38,6 +38,9 @@
 * [multiplatform-settings](https://github.com/russhwolf/multiplatform-settings) - For mobile apps to save settings as key-value pairs.  
 ![badge][badge-android]
 ![badge][badge-native]
+![badge][badge-mac]
+![badge][badge-js]
+![badge][badge-jvm]
 
 * [Kissme](https://github.com/netguru/Kissme) - This library provides encrypted key-value storage.  
 ![badge][badge-android]
