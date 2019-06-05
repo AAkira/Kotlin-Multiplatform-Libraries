@@ -107,6 +107,19 @@
 ![badge][badge-android]
 ![badge][badge-native]
 
+### State Management
+
+* [ReduxKotlin](https://github.com/reduxkotlin) - Redux for Kotlin 
+
+![badge][badge-android]
+![badge][badge-native]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+![badge][badge-wasm]
+
 ### Utility
 
 #### Asynchronous
