@@ -74,6 +74,10 @@
 ![badge][badge-android]
 ![badge][badge-native]
 
+* [suparnatural-cache](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/cache-core) - A superfast, thread safe in-memory cache with configurable hashing schemes backed by persistent stores with blocking/non-blocking I/O.
+![badge][badge-android]
+![badge][badge-native]
+
 ### DI
 
 * [Kodein](https://github.com/Kodein-Framework/Kodein-DI) - Dependency Injection.  
