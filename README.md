@@ -16,6 +16,12 @@
 
 * [kgql](https://github.com/yshrsmz/kgql) - GraphQL Document wrapper generator.
 
+#### Stomp
+
+* [krossbow](https://github.com/joffrey-bion/krossbow) - A Kotlin multiplatform coroutine-based STOMP client over websockets  
+![badge][badge-js]
+![badge][badge-jvm]
+
 ### Serializer
 
 * [kotlinx.serialization (official)](https://github.com/Kotlin/kotlinx.serialization) - Supports JSON, CBOR, and Protobuf formats.  
@@ -32,6 +38,11 @@
 ![badge][badge-android]
 ![badge][badge-native]
 ![badge][badge-jvm]
+
+* [SQLiter](https://github.com/touchlab/SQLiter) - Minimal multiplatform sqlite library  
+![badge][badge-android]
+![badge][badge-native]
+![badge][badge-mac]
 
 #### KVS
 
@@ -169,7 +180,21 @@
 
 #### Analytics
 
+* [Kotlin-Multiplatform-Firebase](https://github.com/RubyLichtenstein/Kotlin-Multiplatform-Firebase)  
+![badge][badge-android]
+![badge][badge-native]
+![badge][badge-js]
+![badge][badge-jvm]
+
 * [measurer](https://github.com/soushin/measurer) - Google Analytics(using measurement protocol).  
+![badge][badge-android]
+![badge][badge-native]
+![badge][badge-js]
+![badge][badge-jvm]
+
+#### Atomic
+
+* [AtomicFu](https://github.com/Kotlin/kotlinx.atomicfu) - The idiomatic way to use atomic operations in Kotlin  
 ![badge][badge-android]
 ![badge][badge-native]
 ![badge][badge-js]
@@ -227,6 +252,9 @@
 ![badge][badge-windows]
 ![badge][badge-mac]
 
+* [kotlin-material-ui](https://github.com/subroh0508/kotlin-material-ui) - Kotlin Wrapper Library of Material-UI  
+![badge][badge-js]
+
 ### Docs
 
 * [dokka (official)](https://github.com/Kotlin/dokka) - Documentation Engine for Kotlin.  
@@ -235,9 +263,13 @@
 
 * [BuildKonfig](https://github.com/yshrsmz/BuildKonfig) - It reads values from properties and adds those into Build config like Android.
 
-* [kotlin-native-cocoapods](https://github.com/AlecStrong/kotlin-native-cocoapods) - A Gradle plugin for configuring Kotlin/Native with Cocoapods.
+* [kotlin-native-cocoapods](https://github.com/AlecStrong/kotlin-native-cocoapods) - Gradle plugin for configuring Kotlin/Native with Cocoapods.
 
-* [kotlin-frontend-plugin (official)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle plugin for frontend development.  
+* [kotlin-frontend-plugin (official)](https://github.com/Kotlin/kotlin-frontend-plugin) - ~~Gradle plugin for frontend development.~~  
+![badge][badge-js]  
+=> Deprecated move [here](https://github.com/JetBrains/kotlin/tree/master/js)
+
+* [kotlin-dce](https://kotlinlang.org/docs/reference/javascript-dce.html) - This tool allows to strip out unused properties, functions and classes from the generated JS.   
 ![badge][badge-js]  
 
 * [xcode-kotlin](https://github.com/touchlab/xcode-kotlin) - Kotlin Native Xcode Plugin
