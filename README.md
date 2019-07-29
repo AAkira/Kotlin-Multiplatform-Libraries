@@ -243,6 +243,7 @@
 ### GUI
 
 * [kgl](https://github.com/Dominaezzz/kgl) - This library provides a thin OOP wrapper with DSLs to make programming with vulkan easier.  
+![badge][badge-jvm]
 ![badge][badge-linux]
 ![badge][badge-windows]
 ![badge][badge-mac]
