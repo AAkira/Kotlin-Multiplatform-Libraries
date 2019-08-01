@@ -51,7 +51,7 @@
 ![badge][badge-android]
 ![badge][badge-native]
 
-* [suparnatural-fs](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/fs-core) - Kotlin Multi Platform File System access library for `iOS` and `Android`.
+* [suparnatural-fs](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/fs) - Kotlin Multi Platform File System access library for `iOS` and `Android`.
 ![badge][badge-android]
 ![badge][badge-native]
 
