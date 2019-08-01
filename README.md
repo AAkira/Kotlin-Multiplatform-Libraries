@@ -130,7 +130,7 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 
-* [suparnatural-threading](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/threading-core) - Convenient APIs for cross-platform multithreading on `iOS` and `Android`.
+* [suparnatural-concurrency](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/concurrency) - Unified APIs such as Workers, Schedulers for cross-platform multithreading on `iOS` and `Android`.
 ![badge][badge-android]
 ![badge][badge-native]
 
