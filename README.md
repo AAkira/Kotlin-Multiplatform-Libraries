@@ -149,6 +149,12 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 
+* [time](https://github.com/MrAsterisco/Time) - Time calculations with type-safety.
+![badge][badge-android]
+![badge][badge-native]
+![badge][badge-js]
+![badge][badge-jvm]
+
 #### EventBus
 
 * [Multiplatform-Bus](https://github.com/florent37/Multiplatform-Bus) - Kotlin event-bus compatible with Android & native iOS.  
