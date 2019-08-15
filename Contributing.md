@@ -22,6 +22,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 ```
 
+* Don't forget two spaces after description for a new line.
 * New categories, or improvements to the existing categorization are welcome.
 * Keep descriptions short and simple, but descriptive.
 * End all descriptions with a full stop/period.
