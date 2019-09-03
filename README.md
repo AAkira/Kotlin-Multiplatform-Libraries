@@ -266,6 +266,13 @@
 ![badge][badge-android]
 ![badge][badge-jvm]
 
+### Annotation Processor
+
+* [MpApt](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library  
+![badge][badge-native]
+![badge][badge-js]
+![badge][badge-jvm]
+
 ### GUI
 
 * [kgl](https://github.com/Dominaezzz/kgl) - This library provides a thin OOP wrapper with DSLs to make programming with vulkan easier.  
@@ -281,6 +288,10 @@
 
 * [kotlin-material-ui](https://github.com/subroh0508/kotlin-material-ui) - Kotlin Wrapper Library of Material-UI  
 ![badge][badge-js]
+
+### Architecture
+
+* [oolong](https://github.com/oolong-kt/oolong) - MVU for Kotlin Multiplatform  
 
 ### Docs
 
