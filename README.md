@@ -273,6 +273,11 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 
+* [kotlin-native-suspend-function-callback](https://github.com/feilfeilundfeil/kotlin-native-suspend-function-callback) - Kotlin Multiplatform compiler plugin to generate a callback implementation for suspended functions so they are visible from Kotlin Native  
+![badge][badge-native]
+![badge][badge-js]
+![badge][badge-jvm]
+
 ### GUI
 
 * [kgl](https://github.com/Dominaezzz/kgl) - This library provides a thin OOP wrapper with DSLs to make programming with vulkan easier.  
