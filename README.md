@@ -181,6 +181,15 @@
 ![badge][badge-android]
 ![badge][badge-native]
 
+#### Number
+
+* [kotlin-multiplatform-bignum](https://github.com/ionspin/kotlin-multiplatform-bignum) - A Kotlin multiplatform library for arbitrary precision arithmetics  
+![badge][badge-native]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+
 #### Cipher
 
 * [krypt](https://github.com/korlibs/krypto) - Cryptography library. Support for SecureRandom, Hash(MD5/SHA1/SHA256), AES.  
@@ -296,6 +305,8 @@
 
 ### Architecture
 
+* [kompass](https://github.com/sellmair/kompass) - Kotlin Multiplatform Router for Android and iOS  
+
 * [oolong](https://github.com/oolong-kt/oolong) - MVU for Kotlin Multiplatform  
 
 ### Docs
@@ -316,6 +327,8 @@
 ![badge][badge-js]  
 
 * [xcode-kotlin](https://github.com/touchlab/xcode-kotlin) - Kotlin Native Xcode Plugin
+
+* [xcode-compat(official)](https://github.com/Kotlin/xcode-compat) - AppCode helper for Kotlin/Native and Xcode  
 
 * [kotlinx-benchmark(official)](https://github.com/Kotlin/kotlinx-benchmark) - https://github.com/Kotlin/kotlinx-benchmark  
 ![badge][badge-native]
