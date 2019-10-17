@@ -4,6 +4,12 @@
 
 ### Network
 
+#### Bluetooth
+
+* [Blue-Falcon](https://github.com/Reedyuk/blue-falcon) - A unified Bluetooth library for Android and iOS.  
+![badge][badge-android]
+![badge][badge-native]
+
 #### Http
 
 * [Ktor](https://github.com/ktorio/ktor) - Most popular Http client in kotlin multiplatform.  
