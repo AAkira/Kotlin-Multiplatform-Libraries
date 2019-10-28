@@ -241,9 +241,20 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 
+#### UUID
+
+* [uuid](https://github.com/benasher44/uuid) - Kotlin Multiplatform UUID  
+![badge][badge-android]
+![badge][badge-native]
+![badge][badge-js]
+![badge][badge-jvm]
+
 #### Kotlin/Native
 
 * [Stately](https://github.com/touchlab/Stately) - The library is set of multithreaded collection classes that will allow multithreaded mutation in Kotlin/Native.  
+![badge][badge-native]
+
+* [coroutineworker](https://github.com/Autodesk/coroutineworker) - Kotlin Coroutine-based workers for native  
 ![badge][badge-native]
 
 ### Debug
