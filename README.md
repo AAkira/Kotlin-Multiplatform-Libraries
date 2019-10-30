@@ -347,6 +347,8 @@
 
 * [xcode-compat(official)](https://github.com/Kotlin/xcode-compat) - AppCode helper for Kotlin/Native and Xcode  
 
+* [KotlinXcodeSync](https://github.com/touchlab/KotlinXcodeSync) - Sync Kotlin files with an Xcode project
+
 * [kotlinx-benchmark(official)](https://github.com/Kotlin/kotlinx-benchmark) - https://github.com/Kotlin/kotlinx-benchmark  
 ![badge][badge-native]
 ![badge][badge-js]
