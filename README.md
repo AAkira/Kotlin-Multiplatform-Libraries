@@ -175,6 +175,11 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 
+* [island-time](https://github.com/erikc5000/island-time) - A Kotlin Multiplatform library for working with dates and times  
+![badge][badge-android]
+![badge][badge-native]
+![badge][badge-jvm]
+
 * [time](https://github.com/MrAsterisco/Time) - Time calculations with type-safety.  
 ![badge][badge-android]
 ![badge][badge-native]
