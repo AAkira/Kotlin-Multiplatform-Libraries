@@ -186,6 +186,10 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 
+* [fluid-time](https://github.com/fluidsonic/fluid-time) - Kotlin multiplatform date & time library  
+![badge][badge-native]
+![badge][badge-jvm]
+
 #### EventBus
 
 * [Multiplatform-Bus](https://github.com/florent37/Multiplatform-Bus) - Kotlin event-bus compatible with Android & native iOS.  
@@ -226,11 +230,15 @@
 
 #### Analytics
 
-* [Kotlin-Multiplatform-Firebase](https://github.com/RubyLichtenstein/Kotlin-Multiplatform-Firebase)  
+* [Kotlin-Multiplatform-Firebase](https://github.com/RubyLichtenstein/Kotlin-Multiplatform-Firebase) - Kotlin Multiplatform - Android/iOS/Web/Node.Js(Firebase)  
 ![badge][badge-android]
 ![badge][badge-native]
 ![badge][badge-js]
 ![badge][badge-jvm]
+
+* [FirestoreKMP](https://github.com/touchlab/firestorekmp) - Firestore KMP Library  
+![badge][badge-android]
+![badge][badge-native]
 
 * [measurer](https://github.com/soushin/measurer) - Google Analytics(using measurement protocol).  
 ![badge][badge-android]
