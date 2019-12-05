@@ -292,7 +292,7 @@
 
 ### Test
 
-* [Atrium](https://github.com/robstoll/atrium) - assertion library.  
+* [Atrium](https://github.com/robstoll/atrium) - A multiplatform assertion library for Kotlin.  
 ![badge][badge-android]
 ![badge][badge-js]
 ![badge][badge-jvm]
@@ -318,6 +318,10 @@
 ![badge][badge-jvm]
 
 ### GUI
+
+* [moko-widgets](https://github.com/icerockdev/moko-widgets) - Declarative UI and screens management in common code for mobile (android & ios) Kotlin Multiplatform development  
+![badge][badge-android]
+![badge][badge-native]
 
 * [kgl](https://github.com/Dominaezzz/kgl) - This library provides a thin OOP wrapper with DSLs to make programming with vulkan easier.  
 ![badge][badge-jvm]
