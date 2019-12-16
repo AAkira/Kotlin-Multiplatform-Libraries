@@ -22,6 +22,11 @@
 
 * [kgql](https://github.com/yshrsmz/kgql) - GraphQL Document wrapper generator.
 
+* [suparnatural-graphql](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/graphql) - Strict type safe GraphQL client with support for composable links.
+![badge][badge-android]
+![badge][badge-native]
+![badge][badge-jvm]
+
 #### Stomp
 
 * [krossbow](https://github.com/joffrey-bion/krossbow) - A Kotlin multiplatform coroutine-based STOMP client over websockets  
