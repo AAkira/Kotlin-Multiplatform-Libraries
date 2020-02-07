@@ -158,6 +158,12 @@
 ![badge][badge-mac]
 ![badge][badge-wasm]
 
+### Project templates 
+
+* [moko-template](https://github.com/icerockdev/moko-template) - Project template (Kotlin Multiplatform for iOS and Android, Kotlin Gradle DSL, Modular-bazed architecture, Feature modules and the domain module are independent, LiveData, ViewModel, Resource Management, etc) - all that you need for quick start. 
+![badge][badge-android]
+![badge][badge-native]
+
 ### Utility
 
 #### Asynchronous
@@ -348,6 +354,10 @@
 
 * [oolong](https://github.com/oolong-kt/oolong) - MVU for Kotlin Multiplatform  
 
+* [moko-mvvm](https://github.com/icerockdev/moko-mvvm) - MVVM architecture components for mobile multiplatform with LiveData (iOS and Android) 
+![badge][badge-android]
+![badge][badge-native]
+
 ### Docs
 
 * [dokka (official)](https://github.com/Kotlin/dokka) - Documentation Engine for Kotlin.  
@@ -375,6 +385,10 @@
 ![badge][badge-native]
 ![badge][badge-js]
 ![badge][badge-jvm]
+
+* [mobile-multiplatform-gradle-plugin](https://github.com/icerockdev/mobile-multiplatform-gradle-plugin) - Gradle plugin to make Multiplatform projects settings simplier. 
+![badge][badge-android]
+![badge][badge-native]
 
 ## Contribute
 
