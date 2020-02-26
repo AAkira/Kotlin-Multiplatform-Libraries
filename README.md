@@ -348,6 +348,15 @@
 * [kotlin-material-ui](https://github.com/subroh0508/kotlin-material-ui) - Kotlin Wrapper Library of Material-UI  
 ![badge][badge-js]
 
+### Command Line Interface
+
+* [Clikt](https://github.com/ajalt/clikt) - Multiplatform command line interface parsing for Kotlin  
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+
 ### Architecture
 
 * [kompass](https://github.com/sellmair/kompass) - Kotlin Multiplatform Router for Android and iOS  
