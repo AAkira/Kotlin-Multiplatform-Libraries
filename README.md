@@ -132,6 +132,7 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 ![badge][badge-linux]
+![badge][badge-mac]
 
 * [RxCommon](https://github.com/noheltcj/RxCommon) - ReactiveX providing a common way to build one set of business logic.  
 ![badge][badge-android]
