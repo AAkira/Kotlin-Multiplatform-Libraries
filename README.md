@@ -368,6 +368,13 @@
 ![badge][badge-android]
 ![badge][badge-native]
 
+* [MVIKotlin](https://github.com/arkivanov/MVIKotlin) - MVI framework for Kotlin Multiplatform.  
+![badge][badge-android]
+![badge][badge-native]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+
 ### Docs
 
 * [dokka (official)](https://github.com/Kotlin/dokka) - Documentation Engine for Kotlin.  
