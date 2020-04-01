@@ -41,6 +41,10 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 
+* [YAKL](https://github.com/jurgc11/yakl) - A YAML 1.2 processor.
+![badge][badge-mac]
+![badge][badge-linux]
+
 ### Storage
 
 #### RDB
