@@ -18,6 +18,11 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 
+* [Ktor Client - OAuth Feature](https://github.com/kuuuurt/ktor-client-oauth-feature) - Ktor Client Feature for handling OAuth token refreshes  
+![badge][badge-native]
+![badge][badge-jvm]
+
+
 #### GraphQL
 
 * [kgql](https://github.com/yshrsmz/kgql) - GraphQL Document wrapper generator.
