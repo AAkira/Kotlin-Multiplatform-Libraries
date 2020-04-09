@@ -287,7 +287,7 @@
 
 * [Multiplatform Paging](https://github.com/kuuuurt/multiplatform-paging) - Kotlin Multiplatform library for Pagination on Android and iOS
 ![badge][badge-android]
-![badge][ios]
+![badge][badge-ios]
 
 
 #### Kotlin/Native
