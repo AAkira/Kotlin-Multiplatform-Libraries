@@ -278,6 +278,13 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 
+#### Paging
+
+* [Multiplatform Paging](https://github.com/kuuuurt/multiplatform-paging) - Kotlin Multiplatform library for Pagination on Android and iOS
+![badge][badge-android]
+![badge][ios]
+
+
 #### Kotlin/Native
 
 * [Stately](https://github.com/touchlab/Stately) - The library is set of multithreaded collection classes that will allow multithreaded mutation in Kotlin/Native.  
