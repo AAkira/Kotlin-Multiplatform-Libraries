@@ -32,6 +32,12 @@
 ![badge][badge-native]
 ![badge][badge-jvm]
 
+* [apollo](https://www.apollographql.com/docs/android/advanced/multiplatform/) - Multiplatform official GraphQL client.
+![badge][badge-android]
+![badge][badge-native]
+![badge][badge-js]
+![badge][badge-jvm]
+
 #### Stomp
 
 * [krossbow](https://github.com/joffrey-bion/krossbow) - A Kotlin multiplatform coroutine-based STOMP client over websockets  
