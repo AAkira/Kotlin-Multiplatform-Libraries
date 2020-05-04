@@ -7,7 +7,7 @@ Please ensure your pull request adheres to the following guidelines:
 * Use the following format and add badges of the platform on which the library works. Add the official mark if it is created by JetBrains.
 
 ```
-* [Library name](link) - Description.
+* [Library name](link) - Description.  
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-js]
@@ -15,6 +15,9 @@ Please ensure your pull request adheres to the following guidelines:
 ![badge][badge-linux]
 ![badge][badge-windows]
 ![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-wasm]
 
 * [Library name (official)] - Description.  
 ![badge][badge-android]
@@ -22,7 +25,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 ```
 
-* Don't forget two spaces after description for a new line.
+* **Don't forget two spaces after description for a new line.**
 * New categories, or improvements to the existing categorization are welcome.
 * Keep descriptions short and simple, but descriptive.
 * End all descriptions with a full stop/period.
