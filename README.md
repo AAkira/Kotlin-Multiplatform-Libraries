@@ -4,39 +4,31 @@
 
 ### Network
 
-#### Bluetooth
-
-* [Blue-Falcon](https://github.com/Reedyuk/blue-falcon) - A unified Bluetooth library for Android and iOS.  
-![badge][badge-android]
-![badge][badge-native]
-
 #### Http
 
-* [Ktor](https://github.com/ktorio/ktor) - Most popular Http client in kotlin multiplatform.  
+* [Ktor](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort  
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 ![badge][badge-js]
 ![badge][badge-jvm]
 
-* [Ktor Client - OAuth Feature](https://github.com/kuuuurt/ktor-client-oauth-feature) - Ktor Client Feature for handling OAuth token refreshes  
-![badge][badge-native]
+* [ktor-client-oauth-feature](https://github.com/kuuuurt/ktor-client-oauth-feature) - Ktor Client Feature for handling OAuth token refreshes  
+![badge][badge-ios]
 ![badge][badge-jvm]
-
 
 #### GraphQL
 
-* [kgql](https://github.com/yshrsmz/kgql) - GraphQL Document wrapper generator.
-
-* [suparnatural-graphql](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/graphql) - Strict type safe GraphQL client with support for composable links.
+* [apollo](https://www.apollographql.com/docs/android/advanced/multiplatform/) - Multiplatform official GraphQL client.  
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 ![badge][badge-jvm]
 
-* [apollo](https://www.apollographql.com/docs/android/advanced/multiplatform/) - Multiplatform official GraphQL client.
+* [suparnatural-graphql](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/graphql) - Strict type safe GraphQL client with support for composable links.  
 ![badge][badge-android]
-![badge][badge-native]
-![badge][badge-js]
+![badge][badge-ios]
 ![badge][badge-jvm]
+
+* [kgql](https://github.com/yshrsmz/kgql) - GraphQL Document wrapper generator for Kotlin Multiplatform Project and Android  
 
 #### Stomp
 
@@ -46,13 +38,19 @@
 
 ### Serializer
 
-* [kotlinx.serialization (official)](https://github.com/Kotlin/kotlinx.serialization) - Supports JSON, CBOR, and Protobuf formats.  
+* [kotlinx.serialization (official)](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format serialization  
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 ![badge][badge-js]
 ![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-tvos]
+![badge][badge-wasm]
+![badge][badge-watchos]
+![badge][badge-windows]
 
-* [YAKL](https://github.com/jurgc11/yakl) - A YAML 1.2 processor.
+* [YAKL](https://github.com/jurgc11/yakl) - A YAML 1.2 processor  
 ![badge][badge-mac]
 ![badge][badge-linux]
 
@@ -62,79 +60,109 @@
 
 * [SQLDelight](https://github.com/square/sqldelight) - Generates typesafe Kotlin APIs from SQL.  
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
+![badge][badge-js]
 ![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-tvos]
+![badge][badge-watchos]
+![badge][badge-windows]
 
 * [SQLiter](https://github.com/touchlab/SQLiter) - Minimal multiplatform sqlite library  
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 ![badge][badge-mac]
+![badge][badge-tvos]
+![badge][badge-watchos]
+![badge][badge-windows]
 
 #### KVS
 
-* [multiplatform-settings](https://github.com/russhwolf/multiplatform-settings) - For mobile apps to save settings as key-value pairs.  
+* [multiplatform-settings](https://github.com/russhwolf/multiplatform-settings) - A Kotlin Multiplatform library for saving simple key-value data.  
 ![badge][badge-android]
-![badge][badge-native]
-![badge][badge-mac]
+![badge][badge-ios]
 ![badge][badge-js]
 ![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-tvos]
+![badge][badge-watchos]
+![badge][badge-windows]
 
-* [Kissme](https://github.com/netguru/Kissme) - This library provides encrypted key-value storage.  
+* [Kissme](https://github.com/netguru/Kissme) - Kissme: Kotlin Secure Storage Multiplatform  
 ![badge][badge-android]
-![badge][badge-native]
-
+![badge][badge-ios]
 
 * [Multiplatform-Preferences](https://github.com/florent37/Multiplatform-Preferences) - Kotlin Multi Platform Preferences, for android an ios : SharedPreferences & NSUserDefault.  
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 
 #### FILE
 
-* [okio](https://github.com/square/okio) - A modern I/O library[WIP]  
+* [okio](https://github.com/square/okio) - A modern I/O library for Android, Kotlin, and Java.[WIP]  
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 ![badge][badge-js]
 ![badge][badge-jvm]
 
 * [suparnatural-fs](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/fs) - Kotlin Multi Platform File System access library for `iOS` and `Android`.  
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 
 * [suparnatural-cache](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/cache) - A superfast, thread safe in-memory cache with configurable hashing schemes backed by persistent stores with blocking/non-blocking I/O.  
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 
 ### DI
 
-* [Kodein](https://github.com/Kodein-Framework/Kodein-DI) - Dependency Injection.  
+* [Kodein](https://github.com/Kodein-Framework/Kodein-DI) - Painless Kotlin Dependency Injection  
 ![badge][badge-android]
-![badge][badge-native]
-![badge][badge-js] ![badge][badge-jvm]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-tvos]
+![badge][badge-wasm]
+![badge][badge-watchos]
+![badge][badge-windows]
 
-* [Koin](https://github.com/InsertKoinIO/koin) - Dependency Injection.  
+* [Koin](https://github.com/InsertKoinIO/koin) -  A pragmatic lightweight dependency injection framework for Kotlin  
 ![badge][badge-android]
 ![badge][badge-jvm]
 
 ### Image
 
-* [korim](https://github.com/korlibs/korim) - This library is able to load PNG, JPEGs, BMPs, TGAs, PSDs. And SVG vector images.   
+* [korim](https://github.com/korlibs/korim) - Kotlin cORoutines IMaging, Bitmap and Vector graphics for Multiplatform Kotlin   
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 ![badge][badge-js]
 ![badge][badge-jvm]
 ![badge][badge-linux]
-![badge][badge-windows]
 ![badge][badge-mac]
+![badge][badge-tvos]
+![badge][badge-watchos]
+![badge][badge-windows]
 
 ### Audio
 
-* [korau](https://github.com/korlibs/korau) - It supports playing sounds, creating dynamic audio streams and decoding audio file formats: wav, mp3 and ogg.  
+* [korau](https://github.com/korlibs/korau) - Pure Kotlin WAV, MP3 and OGG vorbis decoders  
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 ![badge][badge-js]
 ![badge][badge-jvm]
 ![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-tvos]
+![badge][badge-watchos]
 ![badge][badge-windows]
+
+### Bluetooth
+
+* [Blue-Falcon](https://github.com/Reedyuk/blue-falcon) - A Bluetooth kotlin multiplatform "Cross-Platform" library for iOS and Android  
+![badge][badge-android]
+![badge][badge-ios]
 ![badge][badge-mac]
 
 ### Reactive
@@ -143,42 +171,26 @@
 
 * [Reaktive](https://github.com/badoo/Reaktive) - Kotlin multi-platform implementation of Reactive Extensions  
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 ![badge][badge-js]
 ![badge][badge-jvm]
 ![badge][badge-linux]
 ![badge][badge-mac]
+![badge][badge-tvos]
+![badge][badge-watchos]
+![badge][badge-windows]
 
-* [RxCommon](https://github.com/noheltcj/RxCommon) - ReactiveX providing a common way to build one set of business logic.  
+* [RxCommon](https://github.com/noheltcj/RxCommon) - Multiplatform implementation of ReactiveX providing a common way to build one set of business logic for native, iOS, Javascript, Android, JVM, and other platforms   
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 ![badge][badge-js]
 ![badge][badge-jvm]
 
 #### LiveData(Android)
 
-* [Multiplatform-LiveData](https://github.com/florent37/Multiplatform-LiveData) - Reimplementation of android LiveDatas on kotlin-multiplatform. It wraps reals livedatas on Android, and uses an Observable-Pattern on iOS.  
+* [Multiplatform-LiveData](https://github.com/florent37/Multiplatform-LiveData) - Multiplatorm implementation of LiveDatas / MVVM in kotlin android & native ios  
 ![badge][badge-android]
-![badge][badge-native]
-
-### State Management
-
-* [ReduxKotlin](https://github.com/reduxkotlin) - Redux for Kotlin 
-
-![badge][badge-android]
-![badge][badge-native]
-![badge][badge-js]
-![badge][badge-jvm]
-![badge][badge-linux]
-![badge][badge-windows]
-![badge][badge-mac]
-![badge][badge-wasm]
-
-### Project templates 
-
-* [moko-template](https://github.com/icerockdev/moko-template) - Project template (Kotlin Multiplatform for iOS and Android, Kotlin Gradle DSL, Modular-bazed architecture, Feature modules and the domain module are independent, LiveData, ViewModel, Resource Management, etc) - all that you need for quick start. 
-![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 
 ### Utility
 
@@ -186,90 +198,108 @@
 
 * [coroutine (official)](https://github.com/Kotlin/kotlinx.coroutines) - Support for Kotlin coroutine.  
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 ![badge][badge-js]
 ![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-tvos]
+![badge][badge-watchos]
+![badge][badge-windows]
 
 * [suparnatural-concurrency](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/concurrency) - Unified APIs such as Workers, Schedulers for cross-platform multithreading on `iOS` and `Android`.  
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 
 #### Date, Time
 
-* [klock](https://github.com/korlibs/klock) - Date & Time library  
+* [klock](https://github.com/korlibs/klock) - Multiplatform Date and time library for Kotlin  
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 ![badge][badge-js]
 ![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-tvos]
+![badge][badge-windows]
+![badge][badge-watchos]
 
 * [island-time](https://github.com/erikc5000/island-time) - A Kotlin Multiplatform library for working with dates and times  
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 ![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-tvos]
+![badge][badge-watchos]
 
-* [time](https://github.com/MrAsterisco/Time) - Time calculations with type-safety.  
+* [time](https://github.com/MrAsterisco/Time) - Type-safe time calculations in Kotlin, on any platform  
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 ![badge][badge-js]
 ![badge][badge-jvm]
+![badge][badge-mac]
+![badge][badge-watchos]
 
 * [fluid-time](https://github.com/fluidsonic/fluid-time) - Kotlin multiplatform date & time library  
-![badge][badge-native]
+![badge][badge-ios]
 ![badge][badge-jvm]
+![badge][badge-mac]
 
 #### EventBus
 
 * [Multiplatform-Bus](https://github.com/florent37/Multiplatform-Bus) - Kotlin event-bus compatible with Android & native iOS.  
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 
 #### Number
 
 * [kotlin-multiplatform-bignum](https://github.com/ionspin/kotlin-multiplatform-bignum) - A Kotlin multiplatform library for arbitrary precision arithmetics  
-![badge][badge-native]
+![badge][badge-android]
+![badge][badge-ios]
 ![badge][badge-js]
 ![badge][badge-jvm]
 ![badge][badge-linux]
 ![badge][badge-mac]
+![badge][badge-windows]
 
 #### Cipher
 
 * [krypt](https://github.com/korlibs/krypto) - Cryptography library. Support for SecureRandom, Hash(MD5/SHA1/SHA256), AES.  
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 ![badge][badge-js]
 ![badge][badge-jvm]
 ![badge][badge-linux]
-![badge][badge-windows]
 ![badge][badge-mac]
+![badge][badge-windows]
 
 #### String Utils
 * [FuzzyWuzzy-Kotlin](https://github.com/willowtreeapps/fuzzywuzzy-kotlin) - Fuzzy string matching on collections.  Port of python & java library.
 
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 ![badge][badge-js]
 ![badge][badge-jvm]
 ![badge][badge-linux]
-![badge][badge-windows]
 ![badge][badge-mac]
 ![badge][badge-wasm]
+![badge][badge-windows]
 
 #### Analytics
 
 * [Kotlin-Multiplatform-Firebase](https://github.com/RubyLichtenstein/Kotlin-Multiplatform-Firebase) - Kotlin Multiplatform - Android/iOS/Web/Node.Js(Firebase)  
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 ![badge][badge-js]
-![badge][badge-jvm]
 
 * [FirestoreKMP](https://github.com/touchlab/firestorekmp) - Firestore KMP Library  
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 
 * [measurer](https://github.com/soushin/measurer) - Google Analytics(using measurement protocol).  
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 ![badge][badge-js]
 ![badge][badge-jvm]
 
@@ -277,21 +307,29 @@
 
 * [AtomicFu](https://github.com/Kotlin/kotlinx.atomicfu) - The idiomatic way to use atomic operations in Kotlin  
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 ![badge][badge-js]
 ![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-tvos]
+![badge][badge-watchos]
+![badge][badge-windows]
 
 #### UUID
 
 * [uuid](https://github.com/benasher44/uuid) - Kotlin Multiplatform UUID  
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 ![badge][badge-js]
 ![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-windows]
 
 #### Paging
 
-* [Multiplatform Paging](https://github.com/kuuuurt/multiplatform-paging) - Kotlin Multiplatform library for Pagination on Android and iOS
+* [Multiplatform Paging](https://github.com/kuuuurt/multiplatform-paging) - Kotlin Multiplatform library for Pagination on Android and iOS  
 ![badge][badge-android]
 ![badge][badge-ios]
 
@@ -299,10 +337,18 @@
 #### Kotlin/Native
 
 * [Stately](https://github.com/touchlab/Stately) - The library is set of multithreaded collection classes that will allow multithreaded mutation in Kotlin/Native.  
-![badge][badge-native]
+![badge][badge-ios]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-tvos]
+![badge][badge-watchos]
+![badge][badge-windows]
 
 * [coroutineworker](https://github.com/Autodesk/coroutineworker) - Kotlin Coroutine-based workers for native  
-![badge][badge-native]
+![badge][badge-ios]
+![badge][badge-jvm]
+![badge][badge-windows]
+![badge][badge-mac]
 
 ### Debug
 
@@ -310,19 +356,22 @@
 
 * [Napier](https://github.com/AAkira/Napier) - Logging library for Kotlin Multiplatform.  
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 ![badge][badge-js]
 ![badge][badge-jvm]
 
 * [klogger](https://github.com/korlibs/klogger) - Logging library for Kotlin Multiplatform.  
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 ![badge][badge-js]
 ![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-windows]
 
 * [Multiplatform-Log](https://github.com/florent37/Multiplatform-Log) - Logging library for Kotlin Multiplatform.  
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 
 ### Test
 
@@ -342,12 +391,15 @@
 ### Annotation Processor
 
 * [MpApt](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library  
-![badge][badge-native]
+![badge][badge-android]
+![badge][badge-ios]
 ![badge][badge-js]
 ![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
 
 * [kotlin-native-suspend-function-callback](https://github.com/feilfeilundfeil/kotlin-native-suspend-function-callback) - Kotlin Multiplatform compiler plugin to generate a callback implementation for suspended functions so they are visible from Kotlin Native  
-![badge][badge-native]
+![badge][badge-ios]
 ![badge][badge-js]
 ![badge][badge-jvm]
 
@@ -355,15 +407,16 @@
 
 * [moko-widgets](https://github.com/icerockdev/moko-widgets) - Declarative UI and screens management in common code for mobile (android & ios) Kotlin Multiplatform development  
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 
 * [kgl](https://github.com/Dominaezzz/kgl) - This library provides a thin OOP wrapper with DSLs to make programming with vulkan easier.  
+![badge][badge-js]
 ![badge][badge-jvm]
 ![badge][badge-linux]
 ![badge][badge-windows]
 ![badge][badge-mac]
 
-* [kotlin-libui](https://github.com/msink/kotlin-libui) - This is a C lightweight multi-platform UI library using native widgets.  
+* [kotlin-libui](https://github.com/msink/kotlin-libui) - Kotlin/Native interop to libui: a portable GUI library  
 ![badge][badge-linux]
 ![badge][badge-windows]
 ![badge][badge-mac]
@@ -386,16 +439,32 @@
 
 * [oolong](https://github.com/oolong-kt/oolong) - MVU for Kotlin Multiplatform  
 
-* [moko-mvvm](https://github.com/icerockdev/moko-mvvm) - MVVM architecture components for mobile multiplatform with LiveData (iOS and Android) 
+* [moko-mvvm](https://github.com/icerockdev/moko-mvvm) - MVVM architecture components for mobile multiplatform with LiveData (iOS and Android)   
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 
 * [MVIKotlin](https://github.com/arkivanov/MVIKotlin) - MVI framework for Kotlin Multiplatform.  
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 ![badge][badge-js]
 ![badge][badge-jvm]
 ![badge][badge-linux]
+
+* [ReduxKotlin](https://github.com/reduxkotlin/redux-kotlin) - Redux implementation for Kotlin (supports multiplatform JVM, native, JS, WASM)   
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+![badge][badge-wasm]
+
+#### Project templates 
+
+* [moko-template](https://github.com/icerockdev/moko-template) - Template project of a Mobile (Android & iOS) Kotlin MultiPlatform project with the MOKO libraries and modularized architecture   
+![badge][badge-android]
+![badge][badge-ios]
 
 ### Docs
 
@@ -421,25 +490,27 @@
 * [KotlinXcodeSync](https://github.com/touchlab/KotlinXcodeSync) - Sync Kotlin files with an Xcode project
 
 * [kotlinx-benchmark(official)](https://github.com/Kotlin/kotlinx-benchmark) - https://github.com/Kotlin/kotlinx-benchmark  
-![badge][badge-native]
+![badge][badge-ios]
 ![badge][badge-js]
 ![badge][badge-jvm]
 
-* [mobile-multiplatform-gradle-plugin](https://github.com/icerockdev/mobile-multiplatform-gradle-plugin) - Gradle plugin to make Multiplatform projects settings simplier. 
+* [mobile-multiplatform-gradle-plugin](https://github.com/icerockdev/mobile-multiplatform-gradle-plugin) - Gradle plugin to make Multiplatform projects settings simplier   
 ![badge][badge-android]
-![badge][badge-native]
+![badge][badge-ios]
 
 ## Contribute
 
 Welcome contribute!
 Please read the [contribution guidelines](Contributing.md) first.
 
-[badge-android]: http://img.shields.io/badge/platform-android-brightgreen.svg?style=flat
-[badge-native]: http://img.shields.io/badge/platform-native-lightgrey.svg?style=flat
-[badge-js]: http://img.shields.io/badge/platform-js-yellow.svg?style=flat
-[badge-jvm]: http://img.shields.io/badge/platform-jvm-orange.svg?style=flat
-[badge-linux]: http://img.shields.io/badge/platform-linux-important.svg?style=flat 
-[badge-windows]: http://img.shields.io/badge/platform-windows-informational.svg?style=flat
-[badge-mac]: http://img.shields.io/badge/platform-macos-lightgrey.svg?style=flat
-[badge-wasm]: https://img.shields.io/badge/platform-wasm-darkblue.svg?style=flat
+[badge-android]: http://img.shields.io/badge/platform-android-6EDB8D.svg?style=flat
+[badge-ios]: http://img.shields.io/badge/platform-ios-CDCDCD.svg?style=flat
+[badge-js]: http://img.shields.io/badge/platform-js-F8DB5D.svg?style=flat
+[badge-jvm]: http://img.shields.io/badge/platform-jvm-DB413D.svg?style=flat
+[badge-linux]: http://img.shields.io/badge/platform-linux-2D3F6C.svg?style=flat 
+[badge-windows]: http://img.shields.io/badge/platform-windows-4D76CD.svg?style=flat
+[badge-mac]: http://img.shields.io/badge/platform-macos-111111.svg?style=flat
+[badge-watchos]: http://img.shields.io/badge/platform-watchos-C0C0C0.svg?style=flat
+[badge-tvos]: http://img.shields.io/badge/platform-tvos-808080.svg?style=flat
+[badge-wasm]: https://img.shields.io/badge/platform-wasm-624FE8.svg?style=flat
 
