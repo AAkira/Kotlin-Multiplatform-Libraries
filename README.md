@@ -446,7 +446,7 @@
 ![badge][badge-mac]
 
 ### Firebase
-* [Firebase Kotlin SDK (official)](https://github.com/gitliveapp/firebase-kotlin-sdk/) - The official Firebase SDK for Kotlin Multiplatform projects (Firebase Authentication, Realtime Database, Cloud Firestore, Cloud Functions, Cloud Messaging and Cloud Storage).  
+* [Firebase Kotlin SDK](https://github.com/gitliveapp/firebase-kotlin-sdk/) - Firebase SDK for Kotlin Multiplatform projects (Firebase Authentication, Realtime Database, Cloud Firestore, Cloud Functions, Cloud Messaging and Cloud Storage).  
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-js]
