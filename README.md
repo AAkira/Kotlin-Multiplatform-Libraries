@@ -467,6 +467,7 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 ![badge][badge-linux]
+![badge][badge-mac]
 
 * [ReduxKotlin](https://github.com/reduxkotlin/redux-kotlin) - Redux implementation for Kotlin (supports multiplatform JVM, native, JS, WASM)   
 ![badge][badge-android]
