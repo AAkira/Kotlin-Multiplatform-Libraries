@@ -484,6 +484,13 @@
 ![badge][badge-ios]
 ![badge][badge-jvm]
 
+
+* [Kaskade](https://github.com/gumil/kaskade) - Simplifying UI state management in Kotlin Multiplatform.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+
 #### Project templates 
 
 * [moko-template](https://github.com/icerockdev/moko-template) - Template project of a Mobile (Android & iOS) Kotlin MultiPlatform project with the MOKO libraries and modularized architecture   
