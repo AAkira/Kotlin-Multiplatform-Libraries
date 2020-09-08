@@ -396,6 +396,15 @@
 ![badge][badge-android]
 ![badge][badge-ios]
 
+* [Log4k](https://github.com/hadilq/log4k) - Logging library for Kotlin Multiplatform.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-windows]
+
 ### Test
 
 * [Atrium](https://github.com/robstoll/atrium) - A multiplatform assertion library for Kotlin.  
