@@ -77,6 +77,17 @@
 ![badge][badge-watchos]
 ![badge][badge-windows]
 
+#### NoSQL
+
+* [Kodein-DB](https://github.com/Kodein-Framework/Kodein-DB) - Embedded NoSQL database
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-tvos]
+![badge][badge-watchos]
+
 #### KVS
 
 * [multiplatform-settings](https://github.com/russhwolf/multiplatform-settings) - A Kotlin Multiplatform library for saving simple key-value data.  
@@ -116,7 +127,7 @@
 
 ### DI
 
-* [Kodein](https://github.com/Kodein-Framework/Kodein-DI) - Painless Kotlin Dependency Injection  
+* [Kodein-DI](https://github.com/Kodein-Framework/Kodein-DI) - Painless Kotlin Dependency Injection  
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-js]
