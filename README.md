@@ -427,6 +427,21 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 
+* [kotest-assertions](https://github.com/kotest/kotest) - Multiplatform assertions and test utilities.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-tvos]
+![badge][badge-watchos]
+![badge][badge-windows]
+
+* [kotest-framework](https://github.com/kotest/kotest) - Multiplatform test framework for Kotlin.  
+![badge][badge-js]
+![badge][badge-jvm]
+
 * [mockk](https://github.com/mockk/mockk) - Mocking library for test.  
 ![badge][badge-android]
 ![badge][badge-jvm]
