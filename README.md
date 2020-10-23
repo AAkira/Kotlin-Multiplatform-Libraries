@@ -54,6 +54,10 @@
 ![badge][badge-mac]
 ![badge][badge-linux]
 
+* [KoAP](https://github.com/JuulLabs/koap) - CoAP encoder/decoder with support for UDP ([RFC 7252](https://tools.ietf.org/html/rfc7252)), TCP ([RFC 8323](https://tools.ietf.org/html/rfc8323)) and Observe ([RFC 7641](https://tools.ietf.org/html/rfc7641)).  
+![badge][badge-js]
+![badge][badge-jvm]
+
 ### Storage
 
 #### RDB
