@@ -388,6 +388,12 @@
 ![badge][badge-windows]
 ![badge][badge-mac]
 
+#### Units
+
+* [Measured](https://github.com/nacular/measured) - Intuitive, type-safe units of measure.  
+![badge][badge-jvm]
+![badge][badge-js]
+
 ### Debug
 
 #### Logging
