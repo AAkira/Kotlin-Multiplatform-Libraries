@@ -272,6 +272,9 @@
 ![badge][badge-jvm]
 ![badge][badge-mac]
 
+* [kcron](https://github.com/Scogun/KCron) - Kotlin multiplatform Cron library  
+![badge][badge-jvm]
+
 #### EventBus
 
 * [Multiplatform-Bus](https://github.com/florent37/Multiplatform-Bus) - Kotlin event-bus compatible with Android & native iOS.  
