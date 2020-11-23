@@ -397,6 +397,20 @@
 ![badge][badge-jvm]
 ![badge][badge-js]
 
+#### Monads
+
+* [Kotlin utilities](https://czerwinski.it/projects/kotlin-util/) - Scala utility types: `Option`, `Either`, `Try` for Kotlin Multiplatform.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-wasm]
+
 ### Debug
 
 #### Logging
