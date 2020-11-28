@@ -272,7 +272,7 @@
 ![badge][badge-jvm]
 ![badge][badge-mac]
 
-* [KCron Common](https://github.com/Scogun/kcron-common) - Kotlin multiplatform Cron library
+* [kcron](https://github.com/Scogun/kcron-common) - Kotlin multiplatform Cron library
 ![badge][badge-jvm]
 ![badge][badge-linux]
 ![badge][badge-mac]
