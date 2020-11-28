@@ -272,7 +272,7 @@
 ![badge][badge-jvm]
 ![badge][badge-mac]
 
-* [kcron](https://github.com/Scogun/KCron) - Kotlin multiplatform Cron library  
+* [KCron Common](https://github.com/Scogun/kcron-common) - Kotlin multiplatform Cron library
 ![badge][badge-jvm]
 
 #### EventBus
