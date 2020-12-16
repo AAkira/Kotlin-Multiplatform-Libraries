@@ -180,6 +180,11 @@
 ![badge][badge-ios]
 ![badge][badge-mac]
 
+* [Kable](https://github.com/juullabs/kable) - Simple Coroutines-powered API for interacting with Bluetooth Low Energy devices.  
+![badge][badge-android]
+![badge][badge-js]
+![badge][badge-mac]
+
 ### Reactive
 
 #### Rx
