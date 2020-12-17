@@ -83,7 +83,11 @@
 
 #### NoSQL
 
-* [Kodein-DB](https://github.com/Kodein-Framework/Kodein-DB) - Embedded NoSQL database
+* [Realm](https://github.com/realm/realm-kotlin) - Kotlin Multiplatform and Android SDK for the Realm Mobile Database: Build Better Apps Faster.  
+![badge][badge-android]
+![badge][badge-ios]
+
+* [Kodein-DB](https://github.com/Kodein-Framework/Kodein-DB) - Embedded NoSQL database  
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-jvm]
