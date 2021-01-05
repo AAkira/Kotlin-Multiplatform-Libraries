@@ -151,6 +151,14 @@
 ![badge][badge-android]
 ![badge][badge-jvm]
 
+* [PopKorn](https://github.com/corbella83/PopKorn) - Forget about modules and components. DI can be simple.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+  
 ### Image
 
 * [korim](https://github.com/korlibs/korim) - Kotlin cORoutines IMaging, Bitmap and Vector graphics for Multiplatform Kotlin   
