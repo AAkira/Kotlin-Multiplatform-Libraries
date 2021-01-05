@@ -455,6 +455,13 @@
 ![badge][badge-mac]
 ![badge][badge-windows]
 
+* [Cabret-Log](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform   
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+
 ### Test
 
 * [Atrium](https://github.com/robstoll/atrium) - A multiplatform assertion library for Kotlin.  
