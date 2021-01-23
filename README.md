@@ -517,6 +517,10 @@
 
 ### GUI
 
+* [compose-macos-theme](https://github.com/chozzle/compose-macos-theme) - Multiplatform MacOS theme written in Compose UI
+![badge][badge-android]
+![badge][badge-jvm]
+  
 * [moko-widgets](https://github.com/icerockdev/moko-widgets) - Declarative UI and screens management in common code for mobile (android & ios) Kotlin Multiplatform development  
 ![badge][badge-android]
 ![badge][badge-ios]
