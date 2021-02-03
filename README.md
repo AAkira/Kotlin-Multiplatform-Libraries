@@ -536,6 +536,9 @@
 * [kotlin-material-ui](https://github.com/subroh0508/kotlin-material-ui) - Kotlin Wrapper Library of Material-UI  
 ![badge][badge-js]
 
+* [muirwik](https://github.com/cfnz/muirwik) - Kotlin Wrapper Library of Material-UI  
+![badge][badge-js]
+
 * [compose-macos-theme](https://github.com/chozzle/compose-macos-theme) - Multiplatform MacOS theme written in Compose UI  
 ![badge][badge-android]
 ![badge][badge-jvm]
