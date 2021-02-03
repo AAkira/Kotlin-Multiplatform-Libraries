@@ -36,6 +36,12 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 
+#### Utility
+
+* [Connectivity status](https://github.com/ln-12/multiplatform-connectivity-status) - Monitor the internet connection status of your device on Android and iOS.  
+![badge][badge-android]
+![badge][badge-ios]
+
 ### Serializer
 
 * [kotlinx.serialization (official)](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format serialization  
