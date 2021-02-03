@@ -249,6 +249,14 @@
 ![badge][badge-android]
 ![badge][badge-ios]
 
+* [Koru](https://github.com/FutureMind/koru) - Coroutine wrappers for Kotlin Native generated from annotations.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-jvm]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+
 #### Date, Time
 
 * [kotlinx-datetime](https://github.com/Kotlin/kotlinx-datetime) - Official date and time library  
