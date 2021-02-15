@@ -445,6 +445,11 @@
 ![badge][badge-tvos]
 ![badge][badge-wasm]
 
+* [kotlin-result](https://github.com/michaelbull/kotlin-result) - A Result monad for modelling success or failure operations.  
+![badge][badge-jvm]
+![badge][badge-ios]
+![badge][badge-js]
+
 ### Debug
 
 #### Logging
