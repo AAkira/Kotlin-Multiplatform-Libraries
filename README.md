@@ -338,6 +338,7 @@
 ![badge][badge-windows]
 
 #### String Utils
+
 * [FuzzyWuzzy-Kotlin](https://github.com/willowtreeapps/fuzzywuzzy-kotlin) - Fuzzy string matching on collections.  Port of python & java library.
 
 ![badge][badge-android]
@@ -360,6 +361,14 @@
 ![badge][badge-watchos]
 ![badge][badge-tvos]
 ![badge][badge-wasm]
+
+#### Input/Output
+
+* [keyboard-mouse-kt](https://github.com/Animeshz/keyboard-mouse-kt) - Multiplatform Kotlin library for interacting with global keyboard and mouse events and states.  
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
 
 #### Analytics
 
