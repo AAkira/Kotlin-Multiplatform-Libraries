@@ -11,6 +11,9 @@
 ![badge][badge-ios]
 ![badge][badge-js]
 ![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
 
 * [ktor-client-oauth-feature](https://github.com/kuuuurt/ktor-client-oauth-feature) - Ktor Client Feature for handling OAuth token refreshes  
 ![badge][badge-ios]
