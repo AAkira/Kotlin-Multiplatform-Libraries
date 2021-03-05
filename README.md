@@ -329,6 +329,8 @@
 ![badge][badge-linux]
 ![badge][badge-mac]
 ![badge][badge-windows]
+![badge][badge-watchos]
+![badge][badge-tvos]
 
 #### Cipher
 
@@ -340,6 +342,17 @@
 ![badge][badge-linux]
 ![badge][badge-mac]
 ![badge][badge-windows]
+
+* [kotlin-multiplatform-libsodium](https://github.com/ionspin/kotlin-multiplatform-libsodium) - A Kotlin Multiplatform wrapper for Libsodium cryptography library. 
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-windows]
+![badge][badge-watchos]
+![badge][badge-tvos]
 
 #### String Utils
 
