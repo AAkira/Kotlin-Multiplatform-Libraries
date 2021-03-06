@@ -499,6 +499,15 @@
 ![badge][badge-android]
 ![badge][badge-ios]
 
+* [Kermit](https://github.com/touchlab/Kermit) - Kotlin Multiplatform logging utility with composable log outputs and prebuilt loggers.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-windows]
+
 * [Log4k](https://github.com/hadilq/log4k) - Logging library for Kotlin Multiplatform.  
 ![badge][badge-android]
 ![badge][badge-ios]
