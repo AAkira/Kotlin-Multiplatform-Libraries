@@ -21,7 +21,7 @@
 
 #### GraphQL
 
-* [apollo](https://www.apollographql.com/docs/android/advanced/multiplatform/) - Multiplatform official GraphQL client.  
+* [apollo](https://www.apollographql.com/docs/android/essentials/get-started-multiplatform/) - Multiplatform official GraphQL client.  
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-jvm]
