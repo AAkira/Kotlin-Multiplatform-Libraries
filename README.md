@@ -486,6 +486,15 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 
+* [KmLogging](https://github.com/LighthouseGames/KmLogging) - High performance, composable multiplatform logging.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-windows]
+
 * [klogger](https://github.com/korlibs/klogger) - Logging library for Kotlin Multiplatform.  
 ![badge][badge-android]
 ![badge][badge-ios]
