@@ -379,7 +379,7 @@
 ![badge][badge-tvos]
 ![badge][badge-wasm]
 
-* [kotlin-multiplatform-diff](https://github.com/petertrr/kotlin-multiplatform-diff) - Multiplatform Kotlin library for calculating text differences.
+* [kotlin-multiplatform-diff](https://github.com/petertrr/kotlin-multiplatform-diff) - Multiplatform Kotlin library for calculating text differences.  
 ![badge][badge-js]
 ![badge][badge-jvm]
 ![badge][badge-linux]
