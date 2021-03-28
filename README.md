@@ -379,6 +379,13 @@
 ![badge][badge-tvos]
 ![badge][badge-wasm]
 
+* [kotlin-multiplatform-diff](https://github.com/petertrr/kotlin-multiplatform-diff) - Multiplatform Kotlin library for calculating text differences.  
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+  
 #### Input/Output
 
 * [keyboard-mouse-kt](https://github.com/Animeshz/keyboard-mouse-kt) - Multiplatform Kotlin library for interacting with global keyboard and mouse events and states.  
