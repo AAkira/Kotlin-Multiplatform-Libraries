@@ -710,6 +710,8 @@
 
 * [KaMPKit](https://github.com/touchlab/KaMPKit) - KaMP Kit by Touchlab is a collection of code and tools designed to get your mobile team started quickly with Kotlin Multiplatform  
 
+* [KMMT](https://github.com/jittya/KMMT) - KMMT is a KMM based project template designed to simplify the KMM development. It uses a simplified MVVM approach that can be shared both in Android and iOS easily. 
+
 ## Contribute
 
 Welcome contribute!
