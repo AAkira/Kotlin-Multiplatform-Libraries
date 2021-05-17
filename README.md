@@ -385,6 +385,15 @@
 ![badge][badge-linux]
 ![badge][badge-windows]
 ![badge][badge-mac]
+
+* [doistx-normalize](https://github.com/Doist/doistx-normalize) -- Kotlin Multiplatform library for string unicode normalization ([UAX #15](https://unicode.org/reports/tr15/)).  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
   
 #### Input/Output
 
