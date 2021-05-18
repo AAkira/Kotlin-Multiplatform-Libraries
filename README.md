@@ -394,6 +394,8 @@
 ![badge][badge-linux]
 ![badge][badge-windows]
 ![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
   
 #### Input/Output
 
