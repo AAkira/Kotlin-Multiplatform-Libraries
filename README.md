@@ -33,6 +33,11 @@
 
 * [kgql](https://github.com/yshrsmz/kgql) - GraphQL Document wrapper generator for Kotlin Multiplatform Project and Android  
 
+#### Real-time communication
+* [webrtc-kmp](https://github.com/shepeliev/webrtc-kmp) - WebRTC Kotlin Multiplatform SDK.  
+![badge][badge-android]
+![badge][badge-ios]
+
 #### Stomp
 
 * [krossbow](https://github.com/joffrey-bion/krossbow) - A Kotlin multiplatform coroutine-based STOMP client over websockets  
@@ -738,4 +743,3 @@ Please read the [contribution guidelines](Contributing.md) first.
 [badge-watchos]: http://img.shields.io/badge/platform-watchos-C0C0C0.svg?style=flat
 [badge-tvos]: http://img.shields.io/badge/platform-tvos-808080.svg?style=flat
 [badge-wasm]: https://img.shields.io/badge/platform-wasm-624FE8.svg?style=flat
-
