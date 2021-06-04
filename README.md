@@ -19,6 +19,13 @@
 ![badge][badge-ios]
 ![badge][badge-jvm]
 
+#### Full-Stack
+
+* [Zakadabar](https://github.com/spxbhuhb/zakadabar-stack) - A Kotlin Multiplatform library for full-stack software development  
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-android]
+
 #### GraphQL
 
 * [apollo](https://www.apollographql.com/docs/android/essentials/get-started-multiplatform/) - Multiplatform official GraphQL client.  
