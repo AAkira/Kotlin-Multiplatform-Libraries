@@ -728,6 +728,11 @@
 
 * [KMMT](https://github.com/jittya/KMMT) - KMMT is a KMM based project template designed to simplify the KMM development. It uses a simplified MVVM approach that can be shared both in Android and iOS easily. 
 
+* [Zakadabar](https://github.com/spxbhuhb/zakadabar-stack) - A Kotlin Multiplatform library for full-stack software development  
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-android]
+
 ## Contribute
 
 Welcome contribute!
