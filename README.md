@@ -19,13 +19,6 @@
 ![badge][badge-ios]
 ![badge][badge-jvm]
 
-#### Full-Stack
-
-* [Zakadabar](https://github.com/spxbhuhb/zakadabar-stack) - A Kotlin Multiplatform library for full-stack software development  
-![badge][badge-js]
-![badge][badge-jvm]
-![badge][badge-android]
-
 #### GraphQL
 
 * [apollo](https://www.apollographql.com/docs/android/essentials/get-started-multiplatform/) - Multiplatform official GraphQL client.  
@@ -734,6 +727,11 @@
 * [KaMPKit](https://github.com/touchlab/KaMPKit) - KaMP Kit by Touchlab is a collection of code and tools designed to get your mobile team started quickly with Kotlin Multiplatform  
 
 * [KMMT](https://github.com/jittya/KMMT) - KMMT is a KMM based project template designed to simplify the KMM development. It uses a simplified MVVM approach that can be shared both in Android and iOS easily. 
+
+* [Zakadabar](https://github.com/spxbhuhb/zakadabar-stack) - A Kotlin Multiplatform library for full-stack software development  
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-android]
 
 ## Contribute
 
