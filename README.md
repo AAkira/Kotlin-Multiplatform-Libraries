@@ -131,6 +131,10 @@
 ![badge][badge-android]
 ![badge][badge-ios]
 
+* [kds](https://github.com/kotlingang/kds) - Multiplatform coroutine-based kotlin library for saving Serializables with kotlinx.serialization and delegates.  
+![badge][badge-jvm]
+![badge][badge-js]
+
 #### FILE
 
 * [okio](https://github.com/square/okio) - A modern I/O library for Android, Kotlin, and Java.[WIP]  
