@@ -132,8 +132,10 @@
 ![badge][badge-ios]
 
 * [kds](https://github.com/kotlingang/kds) - Multiplatform coroutine-based kotlin library for saving Serializables with kotlinx.serialization and delegates.  
+![badge][badge-android]
 ![badge][badge-jvm]
 ![badge][badge-js]
+![badge][badge-nodejs]
 
 #### FILE
 
