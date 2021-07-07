@@ -4,7 +4,7 @@
 
 ### Network
 
-### Authentication
+#### Authentication
 
 * [Auth](https://github.com/Liftric/Auth) - Lightweight AWS Cognito client for Kotlin Multiplatform projects.  
 ![badge][badge-android]
