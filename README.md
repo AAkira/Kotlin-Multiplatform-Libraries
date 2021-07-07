@@ -123,6 +123,10 @@
 ![badge][badge-watchos]
 ![badge][badge-windows]
 
+* [KVault](https://github.com/Liftric/KVault) - Secure key-value storage for Kotlin Multiplatform projects.  
+![badge][badge-android]
+![badge][badge-ios]
+
 * [Kissme](https://github.com/netguru/Kissme) - Kissme: Kotlin Secure Storage Multiplatform  
 ![badge][badge-android]
 ![badge][badge-ios]
