@@ -694,6 +694,19 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 
+
+* [Flywheel](https://github.com/abhimuktheeswarar/Flywheel) - A simple and predictable state management library built on top of coroutines using the concept of actors.   
+![badge][badge-jvm]
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-mac]
+![badge][badge-linux]
+![badge][badge-js]
+![badge][badge-windows]
+
+
 #### Project templates 
 
 * [moko-template](https://github.com/icerockdev/moko-template) - Template project of a Mobile (Android & iOS) Kotlin MultiPlatform project with the MOKO libraries and modularized architecture   
