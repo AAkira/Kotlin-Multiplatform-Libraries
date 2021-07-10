@@ -695,7 +695,7 @@
 ![badge][badge-jvm]
 
 
-* [Flywheel](https://github.com/abhimuktheeswarar/Flywheel) - A simple and predictable state management library inspired by Redux and a few more. Fully built on top of coroutines using the concept of actors.   
+* [Flywheel](https://github.com/abhimuktheeswarar/Flywheel) - A simple and predictable state management library inspired by Redux and a few more. Fully built on top of coroutines using the concept of [actors](https://www.brianstorti.com/the-actor-model/).   
 ![badge][badge-jvm]
 ![badge][badge-android]
 ![badge][badge-ios]
