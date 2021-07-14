@@ -1,15 +1,26 @@
 # Kotlin Multiplatform Libraries
 
+* [Network](#network)
+* [Serializer](#serializer)
+* [Storage](#storage)
+* [DI](#di)
+* [Image](#image)
+* [Audio](#audio)
+* [Bluetooth](#bluetooth)
+* [Reactive](#reactive)
+* [Utility](#utility-1)
+* [Debug](#debug)
+* [Test](#test)
+* [Annotation Processor](#annotation-processor)
+* [GUI](#gui)
+* [Command Line Interface](#command-line-interface)
+* [Architecture](#architecture)
+* [Docs](#docs)
+* [Build & Development Tools](#build--development-tools)
+
 ## Libraries
 
 ### Network
-
-#### Authentication
-
-* [Auth](https://github.com/Liftric/Auth) - Lightweight AWS Cognito client for Kotlin Multiplatform projects.  
-![badge][badge-android]
-![badge][badge-ios]
-![badge][badge-js]
 
 #### Http
 
@@ -57,6 +68,13 @@
 ![badge][badge-android]
 ![badge][badge-ios]
 
+#### Authentication
+
+* [Auth](https://github.com/Liftric/Auth) - Lightweight AWS Cognito client for Kotlin Multiplatform projects.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+
 ### Serializer
 
 * [kotlinx.serialization (official)](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format serialization  
@@ -84,7 +102,8 @@
 ![badge][badge-ios]
 ![badge][badge-js]
 ![badge][badge-jvm]
-
+![badge][badge-linux]
+![badge][badge-mac]
 
 ### Storage
 
