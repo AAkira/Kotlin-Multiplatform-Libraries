@@ -4,6 +4,13 @@
 
 ### Network
 
+#### Authentication
+
+* [Auth](https://github.com/Liftric/Auth) - Lightweight AWS Cognito client for Kotlin Multiplatform projects.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+
 #### Http
 
 * [Ktor](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort  
