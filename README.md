@@ -309,6 +309,10 @@
 ![badge][badge-watchos]
 ![badge][badge-tvos]
 
+* [KMP-NativeCoroutines](https://github.com/rickclephas/KMP-NativeCoroutines) - Library to use Kotlin Coroutines from Swift code in KMP apps.  
+![badge][badge-ios]
+![badge][badge-mac]
+
 #### Date, Time
 
 * [kotlinx-datetime](https://github.com/Kotlin/kotlinx-datetime) - Official date and time library  
