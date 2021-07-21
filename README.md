@@ -313,6 +313,17 @@
 ![badge][badge-ios]
 ![badge][badge-mac]
 
+* [FlowExt](https://github.com/hoc081098/FlowExt) - Kotlinx Coroutines Flow Extensions. Extensions to the Kotlin Flow library.   
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-ios]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-mac]
+![badge][badge-linux]
+![badge][badge-js]
+![badge][badge-windows]
+
 #### Date, Time
 
 * [kotlinx-datetime](https://github.com/Kotlin/kotlinx-datetime) - Official date and time library  
