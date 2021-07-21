@@ -309,6 +309,10 @@
 ![badge][badge-watchos]
 ![badge][badge-tvos]
 
+* [KMP-NativeCoroutines](https://github.com/rickclephas/KMP-NativeCoroutines) - Library to use Kotlin Coroutines from Swift code in KMP apps.  
+![badge][badge-ios]
+![badge][badge-mac]
+
 * [FlowExt](https://github.com/hoc081098/FlowExt) - Kotlinx Coroutines Flow Extensions. Extensions to the Kotlin Flow library.   
 ![badge][badge-android]
 ![badge][badge-jvm]
