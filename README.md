@@ -73,8 +73,8 @@
 * [cognito-idp](https://github.com/Liftric/cognito-idp) - Lightweight AWS Cognito Identity Provider client for Kotlin Multiplatform projects.  
 ![badge][badge-android]
 ![badge][badge-ios]
-![badge][badge-jvm]
 ![badge][badge-js]
+![badge][badge-jvm]
 
 ### Serializer
 
