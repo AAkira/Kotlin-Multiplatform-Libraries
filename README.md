@@ -17,6 +17,7 @@
 * [Architecture](#architecture)
 * [Docs](#docs)
 * [Build & Development Tools](#build--development-tools)
+* [Artificial Intelligence](#artificial-intelligence)
 
 ## Libraries
 
@@ -804,6 +805,15 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 ![badge][badge-android]
+
+### Artificial Intelligence
+
+#### Symbolic AI
+
+* [2P-Kt](https://github.com/tuProlog/2p-kt) - A Kotlin-based, multi-platform, open ecosystem for _symbolic_ artificial intelligence (AI) and logic programming (LP), currently supporting many facilities for LP and a full-fledged, extensible, ISO-standard Prolog solver.  
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-nodejs]
 
 ## Contribute
 
