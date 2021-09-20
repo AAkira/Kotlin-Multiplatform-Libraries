@@ -814,6 +814,8 @@
 ![badge][badge-jvm]
 ![badge][badge-android]
 
+* [multiplatform-swiftpackage](https://github.com/ge-org/multiplatform-swiftpackage) - This is a Gradle plugin for Kotlin Multiplatform projects that generates an XCFramework for your native Apple targets and creates a matching Package.swift file to distribute it as a binary target.  
+
 ### Artificial Intelligence
 
 #### Symbolic AI
