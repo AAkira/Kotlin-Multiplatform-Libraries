@@ -60,6 +60,7 @@
 #### Stomp
 
 * [krossbow](https://github.com/joffrey-bion/krossbow) - A Kotlin multiplatform coroutine-based STOMP client over websockets  
+![badge][badge-ios]
 ![badge][badge-js]
 ![badge][badge-jvm]
 
