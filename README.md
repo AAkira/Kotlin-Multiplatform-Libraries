@@ -625,6 +625,11 @@
 ![badge][badge-jvm]
 ![badge][badge-linux]
 
+* [KmmAnkoLogger](https://github.com/september669/KmmAnkoLogger) - fork of the AnkoLogger for use it with Kotlin Multiplatform Mobile  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-jvm]
+
 ### Test
 
 * [Atrium](https://github.com/robstoll/atrium) - A multiplatform assertion library for Kotlin.  
