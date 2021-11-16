@@ -722,6 +722,15 @@
 
 * [kompass](https://github.com/sellmair/kompass) - Kotlin Multiplatform Router for Android and iOS  
 
+* [Decompose](https://github.com/arkivanov/Decompose) - Kotlin Multiplatform lifecycle-aware business logic components (aka BLoCs) with routing functionality and pluggable UI (Jetpack Compose, SwiftUI, JS React, etc.), inspired by Badoos RIBs fork of the Uber RIBs framework.
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-mac]
+![badge][badge-tvos]
+![badge][badge-watchos]
+
 * [oolong](https://github.com/oolong-kt/oolong) - MVU for Kotlin Multiplatform  
 
 * [moko-mvvm](https://github.com/icerockdev/moko-mvvm) - MVVM architecture components for mobile multiplatform with LiveData (iOS and Android)   
@@ -735,6 +744,7 @@
 ![badge][badge-jvm]
 ![badge][badge-linux]
 ![badge][badge-mac]
+![badge][badge-watchos]
 
 * [ReduxKotlin](https://github.com/reduxkotlin/redux-kotlin) - Redux implementation for Kotlin (supports multiplatform JVM, native, JS, WASM)   
 ![badge][badge-android]
