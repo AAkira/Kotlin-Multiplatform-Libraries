@@ -851,9 +851,10 @@
 #### tgbotapi
 
 * [tgbotapi](https://github.com/InsanusMokrassar/TelegramBotAPI) - Strongly-typed API wrapper for [Telegram Bot API](https://core.telegram.org/bots/api) with
-fully covered API and a lot of additional DSLs on top of base API
+fully covered API and a lot of additional DSLs on top of base API.
+
 ![badge][badge-jvm]
-![badge][badge-js-ir]
+![badge][badge-js]![badge][badge-js-ir]
 
 
 ## Contribute
