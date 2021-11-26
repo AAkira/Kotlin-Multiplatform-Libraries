@@ -18,6 +18,7 @@
 * [Docs](#docs)
 * [Build & Development Tools](#build--development-tools)
 * [Artificial Intelligence](#artificial-intelligence)
+* [Social](#social)
 
 ## Libraries
 
@@ -844,6 +845,16 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 ![badge][badge-nodejs]
+
+### Social
+
+#### tgbotapi
+
+* [tgbotapi](https://github.com/InsanusMokrassar/TelegramBotAPI) - Strongly-typed API wrapper for [Telegram Bot API](https://core.telegram.org/bots/api) with
+fully covered API and a lot of additional DSLs on top of base API
+![badge][badge-jvm]
+![badge][badge-js-ir]
+
 
 ## Contribute
 
