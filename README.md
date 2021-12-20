@@ -661,6 +661,18 @@
 ![badge][badge-android]
 ![badge][badge-jvm]
 
+* [kotlinx-resources](https://github.com/goncalossilva/kotlinx-resources) - Multiplatform library for reading resources in tests.  
+![badge-jvm][badge-jvm]
+![badge-js][badge-js]
+![badge-nodejs][badge-nodejs]
+![badge-android][badge-android]
+![badge-ios][badge-ios]
+![badge-watchos][badge-watchos]
+![badge-tvos][badge-tvos]
+![badge-macos][badge-macos]
+![badge-windows][badge-windows]
+![badge-linux][badge-linux]
+
 ### Annotation Processor
 
 * [MpApt](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library  
