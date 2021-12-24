@@ -401,6 +401,20 @@
 ![badge][badge-watchos]
 ![badge][badge-tvos]
 
+#### Hashing
+
+* [kotlinx-murmurhash](https://github.com/goncalossilva/kotlinx-murmurhash) - Multiplatform library for MurmurHash, a non-cryptographic hash function for general hash-based lookup focused on simplicity and performance.  
+![badge-jvm][badge-jvm]
+![badge-js][badge-js]
+![badge-nodejs][badge-nodejs]
+![badge-android][badge-android]
+![badge-ios][badge-ios]
+![badge-watchos][badge-watchos]
+![badge-tvos][badge-tvos]
+![badge-macos][badge-macos]
+![badge-windows][badge-windows]
+![badge-linux][badge-linux]
+
 #### Cipher
 
 * [krypt](https://github.com/korlibs/krypto) - Cryptography library. Support for SecureRandom, Hash(MD5/SHA1/SHA256), AES.  
