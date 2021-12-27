@@ -382,6 +382,15 @@
 ![badge][badge-mac]
 ![badge][badge-windows]
 
+#### Semantic Versioning
+
+* [SemVer-KMP](https://github.com/QazCetelic/SemVer-KMP) - A Kotlin library for Semantic Versioning with ranges and other features.  
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+
 #### EventBus
 
 * [Multiplatform-Bus](https://github.com/florent37/Multiplatform-Bus) - Kotlin event-bus compatible with Android & native iOS.  
