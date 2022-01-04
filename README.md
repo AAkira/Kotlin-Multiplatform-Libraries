@@ -816,9 +816,11 @@
 ![badge][badge-js]
 ![badge][badge-windows]
 
-* [Premo](https://github.com/dmdevgo/Premo) — helps you implement the presentation layer and share it on iOS and Android.  
+* [Premo](https://github.com/dmdevgo/Premo) — Presentation Model (aka View Model) and Navigation. Focus on writing logic instead of solving common and boring UI related issues: lifecycle, persistence, navigation, etc.   
 ![badge][badge-android]
 ![badge][badge-ios]
+![badge][badge-jvm]
+![badge][badge-js]
 
 
 #### Project templates 
