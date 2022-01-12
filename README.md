@@ -391,6 +391,21 @@
 ![badge][badge-windows]
 ![badge][badge-mac]
 
+* [kotlin-semver](https://github.com/z4kn4fein/kotlin-semver) - Semantic Versioning library for Kotlin Multiplatform.  
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-js-ir]
+![badge][badge-nodejs]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-wasm]
+![badge][badge-apple-silicon]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+
 #### EventBus
 
 * [Multiplatform-Bus](https://github.com/florent37/Multiplatform-Bus) - Kotlin event-bus compatible with Android & native iOS.  
