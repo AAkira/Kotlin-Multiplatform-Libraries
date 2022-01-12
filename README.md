@@ -391,7 +391,7 @@
 ![badge][badge-windows]
 ![badge][badge-mac]
 
-* [kotlin-semver](https://github.com/z4kn4fein/kotlin-semver) - Semantic Versioning library for Kotlin Multiplatform.
+* [kotlin-semver](https://github.com/z4kn4fein/kotlin-semver) - Semantic Versioning library for Kotlin Multiplatform.  
 ![badge][badge-android]
 ![badge][badge-jvm]
 ![badge][badge-js]
