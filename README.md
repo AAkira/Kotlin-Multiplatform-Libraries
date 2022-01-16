@@ -601,6 +601,17 @@
 ![badge][badge-ios]
 ![badge][badge-js]
 
+* [encoding](https://github.com/05nelsonm/component-encoding) - Base 16/32/64 encoding.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+
 ### Debug
 
 #### Logging
