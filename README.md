@@ -775,6 +775,12 @@
 ![badge][badge-windows]
 ![badge][badge-mac]
 
+* [Command_Parser](https://github.com/Martmists-GH/command_parser) - Multiplatform command parser using kotlinx.coroutines  
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+
 ### Firebase
 * [Firebase Kotlin SDK](https://github.com/gitliveapp/firebase-kotlin-sdk/) - Firebase SDK for Kotlin Multiplatform projects (Firebase Authentication, Realtime Database, Cloud Firestore, Cloud Functions, Cloud Messaging and Cloud Storage).  
 ![badge][badge-android]
