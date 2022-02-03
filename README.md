@@ -775,7 +775,7 @@
 ![badge][badge-windows]
 ![badge][badge-mac]
 
-* [Command_Parser](https://github.com/Martmists-GH/command_parser) - Multiplatform command parser using kotlinx.coroutines
+* [Command_Parser](https://github.com/Martmists-GH/command_parser) - Multiplatform command parser using kotlinx.coroutines  
 ![badge][badge-js]
 ![badge][badge-jvm]
 ![badge][badge-linux]
