@@ -39,6 +39,10 @@
 ![badge][badge-ios]
 ![badge][badge-jvm]
 
+* [kmp-tor](https://github.com/05nelsonm/kmp-tor) - Embed Tor into your application.  
+![badge][badge-android]
+![badge][badge-jvm]
+
 #### GraphQL
 
 * [apollo](https://www.apollographql.com/docs/android/essentials/get-started-multiplatform/) - Multiplatform official GraphQL client.  
