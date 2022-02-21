@@ -545,6 +545,10 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 
+* [SegmenKT](https://github.com/MyUNiDAYS/Segmenkt) - A Segment wrapper for Kotlin Multiplatform.  
+![badge][badge-android]
+![badge][badge-ios]
+
 #### Atomic
 
 * [AtomicFu](https://github.com/Kotlin/kotlinx.atomicfu) - The idiomatic way to use atomic operations in Kotlin  
