@@ -715,6 +715,16 @@
 ![badge][badge-android]
 ![badge][badge-jvm]
 
+* [Mockative](https://github.com/mockative/mockative) - Mocking for Kotlin/Native and Kotlin Multiplatform using the Kotlin Symbol Processing API (KSP)  
+![badge-jvm][badge-jvm]
+![badge-js][badge-js]
+![badge-android][badge-android]
+![badge-ios][badge-ios]
+![badge-macos][badge-macos]
+![badge-windows][badge-windows]
+![badge-linux][badge-linux]
+
+
 * [kotlinx-resources](https://github.com/goncalossilva/kotlinx-resources) - Multiplatform library for reading resources in tests.  
 ![badge-jvm][badge-jvm]
 ![badge-js][badge-js]
