@@ -545,6 +545,10 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 
+* [SegmenKT](https://github.com/MyUNiDAYS/Segmenkt) - A Segment wrapper for Kotlin Multiplatform.  
+![badge][badge-android]
+![badge][badge-ios]
+
 #### Atomic
 
 * [AtomicFu](https://github.com/Kotlin/kotlinx.atomicfu) - The idiomatic way to use atomic operations in Kotlin  
@@ -724,6 +728,11 @@
 ![badge-windows][badge-windows]
 ![badge-linux][badge-linux]
 
+* [MocKMP](https://github.com/Kodein-Framework/MocKMP) - A Kotlin/Multiplatform Kotlin Symbol Processor that generates Mocks & Fakes.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
 
 * [kotlinx-resources](https://github.com/goncalossilva/kotlinx-resources) - Multiplatform library for reading resources in tests.  
 ![badge-jvm][badge-jvm]
