@@ -616,10 +616,16 @@
 ![badge][badge-tvos]
 ![badge][badge-wasm]
 
-* [kotlin-result](https://github.com/michaelbull/kotlin-result) - A Result monad for modelling success or failure operations.  
+* [kotlin-result](https://github.com/michaelbull/kotlin-result) - A multiplatform Result monad for modelling success or failure operations.  
 ![badge][badge-jvm]
-![badge][badge-ios]
 ![badge][badge-js]
+![badge][badge-nodejs]
+![badge][badge-ios]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+![badge][badge-js-ir]
+![badge][badge-apple-silicon]
 
 ### Debug
 
