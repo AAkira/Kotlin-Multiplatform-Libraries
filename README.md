@@ -901,7 +901,7 @@
 ![badge][badge-watchos]
 ![badge][badge-tvos]
 
-* [direkt](https://github.com/myunidays/direkt) - Kotlin Multiplatform Router for Android, iOS, Js
+* [Direkt](https://github.com/myunidays/direkt) - Kotlin Multiplatform Router for Android, iOS, Js   
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-js]
