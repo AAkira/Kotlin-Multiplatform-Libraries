@@ -113,7 +113,7 @@
 ![badge][badge-linux]
 ![badge][badge-mac]
 
-* [Kase64](https://github.com/saschpe/Kase64) - Base64 encoder/decoder for Kotlin/Multiplatform. Supports standard and URL-safe encodings.
+* [Kase64](https://github.com/saschpe/Kase64) - Base64 encoder/decoder for Kotlin/Multiplatform. Supports standard and URL-safe encodings.  
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-js]
@@ -124,7 +124,7 @@
 ![badge][badge-watchos]
 ![badge][badge-windows]
 
-* [Kex](https://github.com/saschpe/Kex) - Hex string encoder/decoder for Kotlin/Multiplatform
+* [Kex](https://github.com/saschpe/Kex) - Hex string encoder/decoder for Kotlin/Multiplatform.  
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-js]
