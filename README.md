@@ -113,6 +113,28 @@
 ![badge][badge-linux]
 ![badge][badge-mac]
 
+* [Kase64](https://github.com/saschpe/Kase64) - Base64 encoder/decoder for Kotlin/Multiplatform. Supports standard and URL-safe encodings.
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-tvos]
+![badge][badge-watchos]
+![badge][badge-windows]
+
+* [Kex](https://github.com/saschpe/Kex) - Hex string encoder/decoder for Kotlin/Multiplatform
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-tvos]
+![badge][badge-watchos]
+![badge][badge-windows]
+
 ### Storage
 
 #### RDB
