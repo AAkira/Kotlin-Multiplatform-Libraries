@@ -198,6 +198,18 @@
 ![badge][badge-android]
 ![badge][badge-ios]
 
+* [KStore](https://github.com/xxfast/KStore) - A tiny Kotlin multiplatform library that assists in saving and restoring objects to and from disk using kotlinx.coroutines, kotlinx.serialisation and okio.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-tvos]
+![badge][badge-wasm]
+![badge][badge-watchos]
+![badge][badge-windows]
+
 ### DI
 
 * [Kodein-DI](https://github.com/Kodein-Framework/Kodein-DI) - Painless Kotlin Dependency Injection  
