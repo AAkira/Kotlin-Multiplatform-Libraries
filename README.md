@@ -922,6 +922,10 @@
 ![badge][badge-android]
 ![badge][badge-ios]
 
+* [KMMT](https://github.com/jittya/KMMT) - KMMT is a Multi-Module KMM based project template designed to simplify the KMM development. It uses a simplified approach that can be shared both in android and iOS easily. This template include network module, persistence module, resource module, analytics module ( with ios native library integration), domain module, presenter module etc.  
+![badge][badge-android]
+![badge][badge-ios]
+
 ### Docs
 
 * [dokka (official)](https://github.com/Kotlin/dokka) - Documentation Engine for Kotlin.  
@@ -957,8 +961,6 @@
 * [kotlinx-ast(official)](https://github.com/kotlinx/ast) - Generic AST parsing library for kotlin multiplatform  
 
 * [KaMPKit](https://github.com/touchlab/KaMPKit) - KaMP Kit by Touchlab is a collection of code and tools designed to get your mobile team started quickly with Kotlin Multiplatform  
-
-* [KMMT](https://github.com/jittya/KMMT) - KMMT is a KMM based project template designed to simplify the KMM development. It uses a simplified MVVM approach that can be shared both in Android and iOS easily. 
 
 * [Zakadabar](https://github.com/spxbhuhb/zakadabar-stack) - A Kotlin Multiplatform library for full-stack software development  
 ![badge][badge-js]
