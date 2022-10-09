@@ -375,6 +375,15 @@
 ![badge][badge-mac]
 ![badge][badge-watchos]
 
+* [time](https://github.com/sebj/time) - Type-safe time periods for the Kotlinx-datetime multiplatform date/time library  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-tvos]
+![badge][badge-watchos]
+
 * [fluid-time](https://github.com/fluidsonic/fluid-time) - Kotlin multiplatform date & time library  
 ![badge][badge-ios]
 ![badge][badge-jvm]
