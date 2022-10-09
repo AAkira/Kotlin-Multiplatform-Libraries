@@ -864,6 +864,7 @@
 ![badge][badge-js]
 
 ### Architecture
+* [Ballast](https://github.com/copper-leaf/ballast) - Opinionated Application State Management framework for Kotlin Multiplatform
 
 * [kompass](https://github.com/sellmair/kompass) - Kotlin Multiplatform Router for Android and iOS  
 
