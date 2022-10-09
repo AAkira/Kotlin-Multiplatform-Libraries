@@ -947,6 +947,12 @@
 ![badge][badge-ios]
 ![badge][badge-js]
 
+* [compose_bloc](https://github.com/beyondeye/compose_bloc) - State Management and Navigation Library for Jetpack Compose and Compose Multiplatform.   
+![badge][badge-android]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
 
 #### Project templates 
 
