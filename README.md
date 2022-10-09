@@ -43,6 +43,16 @@
 ![badge][badge-android]
 ![badge][badge-jvm]
 
+
+* [Ktorfit](https://github.com/Foso/Ktorfit) - HTTP client / Kotlin Symbol Processor for Kotlin Multiplatform (Js, Jvm, Android, Native, iOS) using KSP and Ktor clients inspired by Retrofit
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+
 #### GraphQL
 
 * [apollo](https://www.apollographql.com/docs/android/essentials/get-started-multiplatform/) - Multiplatform official GraphQL client.  
