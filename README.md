@@ -658,6 +658,16 @@
 ![badge][badge-js-ir]
 ![badge][badge-apple-silicon]
 
+* [Résultat](https://github.com/nicolashaan/resultat) - A fork of Kotlin Result with a loading state.  
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-nodejs]
+![badge][badge-ios]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+![badge][badge-apple-silicon]
+
 ### Debug
 
 #### Logging
