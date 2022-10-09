@@ -44,7 +44,7 @@
 ![badge][badge-jvm]
 
 
-* [Ktorfit](https://github.com/Foso/Ktorfit) - HTTP client / Kotlin Symbol Processor for Kotlin Multiplatform (Js, Jvm, Android, Native, iOS) using KSP and Ktor clients inspired by Retrofit
+* [Ktorfit](https://github.com/Foso/Ktorfit) - HTTP client / Kotlin Symbol Processor for Kotlin Multiplatform (Js, Jvm, Android, Native, iOS) using KSP and Ktor clients inspired by Retrofit  
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-js]
@@ -149,12 +149,6 @@
 
 #### RDB
 
-* [Door](https://github.com/UstadMobile/door) - Room for Kotlin Multiplatform.  
-![badge][badge-android]
-![badge][badge-js]
-![badge][badge-jvm]
-
-
 * [SQLDelight](https://github.com/square/sqldelight) - Generates typesafe Kotlin APIs from SQL.  
 ![badge][badge-android]
 ![badge][badge-ios]
@@ -173,6 +167,11 @@
 ![badge][badge-tvos]
 ![badge][badge-watchos]
 ![badge][badge-windows]
+
+* [Door](https://github.com/UstadMobile/door) - Room for Kotlin Multiplatform.  
+![badge][badge-android]
+![badge][badge-js]
+![badge][badge-jvm]
 
 #### NoSQL
 
@@ -491,16 +490,16 @@
 #### Hashing
 
 * [kotlinx-murmurhash](https://github.com/goncalossilva/kotlinx-murmurhash) - Multiplatform library for MurmurHash, a non-cryptographic hash function for general hash-based lookup focused on simplicity and performance.  
-![badge-jvm][badge-jvm]
-![badge-js][badge-js]
-![badge-nodejs][badge-nodejs]
-![badge-android][badge-android]
-![badge-ios][badge-ios]
-![badge-watchos][badge-watchos]
-![badge-tvos][badge-tvos]
-![badge-macos][badge-macos]
-![badge-windows][badge-windows]
-![badge-linux][badge-linux]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-nodejs]
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-macos]
+![badge][badge-windows]
+![badge][badge-linux]
 
 #### Cipher
 
@@ -513,7 +512,7 @@
 ![badge][badge-mac]
 ![badge][badge-windows]
 
-* [kotlin-multiplatform-libsodium](https://github.com/ionspin/kotlin-multiplatform-libsodium) - A Kotlin Multiplatform wrapper for Libsodium cryptography library. 
+* [kotlin-multiplatform-libsodium](https://github.com/ionspin/kotlin-multiplatform-libsodium) - A Kotlin Multiplatform wrapper for Libsodium cryptography library.   
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-js]
@@ -795,13 +794,13 @@
 ![badge][badge-jvm]
 
 * [Mockative](https://github.com/mockative/mockative) - Mocking for Kotlin/Native and Kotlin Multiplatform using the Kotlin Symbol Processing API (KSP)  
-![badge-jvm][badge-jvm]
-![badge-js][badge-js]
-![badge-android][badge-android]
-![badge-ios][badge-ios]
-![badge-macos][badge-macos]
-![badge-windows][badge-windows]
-![badge-linux][badge-linux]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-windows]
+![badge][badge-linux]
 
 * [MocKMP](https://github.com/Kodein-Framework/MocKMP) - A Kotlin/Multiplatform Kotlin Symbol Processor that generates Mocks & Fakes.  
 ![badge][badge-android]
@@ -810,16 +809,16 @@
 ![badge][badge-jvm]
 
 * [kotlinx-resources](https://github.com/goncalossilva/kotlinx-resources) - Multiplatform library for reading resources in tests.  
-![badge-jvm][badge-jvm]
-![badge-js][badge-js]
-![badge-nodejs][badge-nodejs]
-![badge-android][badge-android]
-![badge-ios][badge-ios]
-![badge-watchos][badge-watchos]
-![badge-tvos][badge-tvos]
-![badge-macos][badge-macos]
-![badge-windows][badge-windows]
-![badge-linux][badge-linux]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-nodejs]
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-mac]
+![badge][badge-windows]
+![badge][badge-linux]
 
 ### Annotation Processor
 
@@ -864,7 +863,7 @@
 ![badge][badge-android]
 ![badge][badge-jvm]
 
-* [componentbox](https://github.com/dropbox/componentbox) - A Kotlin multiplatform library for building dynamic server-driven UI
+* [componentbox](https://github.com/dropbox/componentbox) - A Kotlin multiplatform library for building dynamic server-driven UI  
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-jvm]
@@ -886,17 +885,17 @@
 ![badge][badge-windows]
 
 ### Firebase
+
 * [Firebase Kotlin SDK](https://github.com/gitliveapp/firebase-kotlin-sdk/) - Firebase SDK for Kotlin Multiplatform projects (Firebase Authentication, Realtime Database, Cloud Firestore, Cloud Functions, Cloud Messaging and Cloud Storage).  
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-js]
 
 ### Architecture
-* [Ballast](https://github.com/copper-leaf/ballast) - Opinionated Application State Management framework for Kotlin Multiplatform
 
 * [kompass](https://github.com/sellmair/kompass) - Kotlin Multiplatform Router for Android and iOS  
 
-* [Decompose](https://github.com/arkivanov/Decompose) - Kotlin Multiplatform lifecycle-aware business logic components (aka BLoCs) with routing functionality and pluggable UI (Jetpack Compose, SwiftUI, JS React, etc.), inspired by Badoos RIBs fork of the Uber RIBs framework.
+* [Decompose](https://github.com/arkivanov/Decompose) - Kotlin Multiplatform lifecycle-aware business logic components (aka BLoCs) with routing functionality and pluggable UI (Jetpack Compose, SwiftUI, JS React, etc.), inspired by Badoos RIBs fork of the Uber RIBs framework.  
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-js]
@@ -939,13 +938,11 @@
 ![badge][badge-ios]
 ![badge][badge-jvm]
 
-
 * [Kaskade](https://github.com/gumil/kaskade) - Simplifying UI state management in Kotlin Multiplatform.  
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-js]
 ![badge][badge-jvm]
-
 
 * [Flywheel](https://github.com/abhimuktheeswarar/Flywheel) - A simple and predictable state management library inspired by Redux and a few more. Fully built on top of coroutines using the concept of [actors](https://www.brianstorti.com/the-actor-model/).   
 ![badge][badge-jvm]
@@ -982,6 +979,8 @@
 ![badge][badge-jvm]
 ![badge][badge-linux]
 ![badge][badge-windows]
+
+* [Ballast](https://github.com/copper-leaf/ballast) - Opinionated Application State Management framework for Kotlin Multiplatform  
 
 #### Project templates 
 
@@ -1054,7 +1053,6 @@ fully covered API and a lot of additional DSLs on top of base API.
 
 ![badge][badge-jvm]
 ![badge][badge-js]![badge][badge-js-ir]
-
 
 ## Contribute
 
