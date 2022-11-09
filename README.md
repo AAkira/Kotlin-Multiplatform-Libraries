@@ -869,6 +869,10 @@
 ![badge][badge-jvm]
 ![badge][badge-js]
 
+* [kontrol](https://github.com/chopyourbrain/kontrol) - A Kotlin Multiplatform library for creating a debugging menu  
+![badge][badge-android]
+![badge][badge-ios]
+
 ### Command Line Interface
 
 * [Clikt](https://github.com/ajalt/clikt) - Multiplatform command line interface parsing for Kotlin  
