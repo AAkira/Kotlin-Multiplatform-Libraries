@@ -997,6 +997,11 @@
 
 * [Ballast](https://github.com/copper-leaf/ballast) - Opinionated Application State Management framework for Kotlin Multiplatform  
 
+* [Kotlin Bloc](https://github.com/1gravity/Kotlin-Bloc) - A simple, predictable and composable UI framework for Kotlin Multiplatform  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-jvm]
+
 #### Project templates 
 
 * [moko-template](https://github.com/icerockdev/moko-template) - Template project of a Mobile (Android & iOS) Kotlin MultiPlatform project with the MOKO libraries and modularized architecture   
