@@ -145,6 +145,17 @@
 ![badge][badge-watchos]
 ![badge][badge-windows]
 
+* [Ktoml](https://github.com/akuleshov7/ktoml) - MPP serialization library (decoder/encoder) for TOML format.
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-tvos]
+![badge][badge-watchos]
+![badge][badge-windows]
+
 ### Storage
 
 #### RDB
