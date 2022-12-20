@@ -1076,7 +1076,7 @@ fully covered API and a lot of additional DSLs on top of base API.
 
 ### Math
 
-* [Multiplatform expressions evaluator](https://github.com/murzagalin/multiplatform-expressions-evaluator) - Runtime infix expressions evaluator.
+* [Multiplatform expressions evaluator](https://github.com/murzagalin/multiplatform-expressions-evaluator) - Runtime infix expressions evaluator.  
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-js]
