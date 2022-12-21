@@ -1074,6 +1074,19 @@ fully covered API and a lot of additional DSLs on top of base API.
 ![badge][badge-jvm]
 ![badge][badge-js]![badge][badge-js-ir]
 
+### Math
+
+* [Multiplatform expressions evaluator](https://github.com/murzagalin/multiplatform-expressions-evaluator) - Runtime infix expressions evaluator.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-tvos]
+![badge][badge-watchos]
+![badge][badge-windows]
+
 ## Contribute
 
 Welcome contribute!
