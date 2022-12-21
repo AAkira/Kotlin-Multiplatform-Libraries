@@ -53,6 +53,10 @@
 ![badge][badge-windows]
 ![badge][badge-mac]
 
+* [fuel](https://github.com/kittinunf/fuel) - The easiest HTTP networking library for Kotlin backed by Kotlinx Coroutines.  
+![badge][badge-android]
+![badge][badge-jvm]
+
 #### GraphQL
 
 * [apollo](https://www.apollographql.com/docs/android/essentials/get-started-multiplatform/) - Multiplatform official GraphQL client.  
