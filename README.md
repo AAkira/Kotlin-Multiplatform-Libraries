@@ -53,7 +53,7 @@
 ![badge][badge-windows]
 ![badge][badge-mac]
 
-* [fuel](https://github.com/kittinunf/fuel) - The easiest HTTP networking library for Kotlin backed by Kotlinx Coroutines.
+* [fuel](https://github.com/kittinunf/fuel) - The easiest HTTP networking library for Kotlin backed by Kotlinx Coroutines.  
 ![badge][badge-android]
 ![badge][badge-jvm]
 
