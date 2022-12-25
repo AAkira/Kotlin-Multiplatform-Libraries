@@ -149,6 +149,9 @@
 ![badge][badge-watchos]
 ![badge][badge-windows]
 
+* [parcelize-darwin](https://github.com/arkivanov/parcelize-darwin) - Kotlin/Native compiler plugin that generates Parcelable implementations for Darwin (Apple) targets.
+* ![badge][badge-ios]
+
 ### Storage
 
 #### RDB
