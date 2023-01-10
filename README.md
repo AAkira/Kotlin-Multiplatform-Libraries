@@ -149,6 +149,22 @@
 ![badge][badge-watchos]
 ![badge][badge-windows]
 
+* [encoding](https://github.com/05nelsonm/component-encoding) - Rfc 4648 Section 4-8 compliant encoding (Base 16, 32 Crockford, 32 Default, 32 Hex, 64 Default, 64 Url Safe).  
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-nodejs]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-wasm]
+![badge][badge-android-native]
+![badge][badge-js-ir]
+![badge][badge-apple-silicon]
+
 ### Storage
 
 #### RDB
@@ -574,18 +590,6 @@
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-js]
-![badge][badge-jvm]
-![badge][badge-linux]
-![badge][badge-windows]
-![badge][badge-mac]
-![badge][badge-watchos]
-![badge][badge-tvos]
-
-* [encoding](https://github.com/05nelsonm/component-encoding) - Base 16/32/64 encoding.  
-![badge][badge-android]
-![badge][badge-ios]
-![badge][badge-js]
-![badge][badge-nodejs]
 ![badge][badge-jvm]
 ![badge][badge-linux]
 ![badge][badge-windows]
