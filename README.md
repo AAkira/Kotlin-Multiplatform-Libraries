@@ -1097,6 +1097,7 @@ Welcome contribute!
 Please read the [contribution guidelines](Contributing.md) first.
 
 [badge-android]: http://img.shields.io/badge/-android-6EDB8D.svg?style=flat
+[badge-android-native]: http://img.shields.io/badge/support-[AndroidNative]-6EDB8D.svg?style=flat
 [badge-jvm]: http://img.shields.io/badge/-jvm-DB413D.svg?style=flat
 [badge-js]: http://img.shields.io/badge/-js-F8DB5D.svg?style=flat
 [badge-js-ir]: https://img.shields.io/badge/support-[IR]-AAC4E0.svg?style=flat
