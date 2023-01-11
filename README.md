@@ -165,6 +165,22 @@
 ![badge][badge-js-ir]
 ![badge][badge-apple-silicon]
 
+* [parcelize](https://github.com/05nelsonm/component-parcelize) - Implement Android `Parcelable` from common code.  
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-nodejs]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-wasm]
+![badge][badge-android-native]
+![badge][badge-js-ir]
+![badge][badge-apple-silicon]
+
 ### Storage
 
 #### RDB
