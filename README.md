@@ -149,6 +149,38 @@
 ![badge][badge-watchos]
 ![badge][badge-windows]
 
+* [encoding](https://github.com/05nelsonm/component-encoding) - Rfc 4648 Section 4-8 compliant encoding (Base 16, 32 Crockford, 32 Default, 32 Hex, 64 Default, 64 Url Safe).  
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-nodejs]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-wasm]
+![badge][badge-android-native]
+![badge][badge-js-ir]
+![badge][badge-apple-silicon]
+
+* [parcelize](https://github.com/05nelsonm/component-parcelize) - Implement Android `Parcelable` from common code.  
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-nodejs]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-wasm]
+![badge][badge-android-native]
+![badge][badge-js-ir]
+![badge][badge-apple-silicon]
+
 ### Storage
 
 #### RDB
@@ -581,18 +613,6 @@
 ![badge][badge-watchos]
 ![badge][badge-tvos]
 
-* [encoding](https://github.com/05nelsonm/component-encoding) - Base 16/32/64 encoding.  
-![badge][badge-android]
-![badge][badge-ios]
-![badge][badge-js]
-![badge][badge-nodejs]
-![badge][badge-jvm]
-![badge][badge-linux]
-![badge][badge-windows]
-![badge][badge-mac]
-![badge][badge-watchos]
-![badge][badge-tvos]
-
 #### Input/Output
 
 * [keyboard-mouse-kt](https://github.com/Animeshz/keyboard-mouse-kt) - Multiplatform Kotlin library for interacting with global keyboard and mouse events and states.  
@@ -708,6 +728,22 @@
 ![badge][badge-linux]
 ![badge][badge-windows]
 ![badge][badge-mac]
+![badge][badge-apple-silicon]
+
+* [value-clazz](https://github.com/05nelsonm/component-value-clazz) - Functionally equivalent to a Kotlin `value class` that implements an interface, but inheritance based and compiles to platform code.  
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-nodejs]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-wasm]
+![badge][badge-android-native]
+![badge][badge-js-ir]
 ![badge][badge-apple-silicon]
 
 ### Debug
@@ -1097,6 +1133,7 @@ Welcome contribute!
 Please read the [contribution guidelines](Contributing.md) first.
 
 [badge-android]: http://img.shields.io/badge/-android-6EDB8D.svg?style=flat
+[badge-android-native]: http://img.shields.io/badge/support-[AndroidNative]-6EDB8D.svg?style=flat
 [badge-jvm]: http://img.shields.io/badge/-jvm-DB413D.svg?style=flat
 [badge-js]: http://img.shields.io/badge/-js-F8DB5D.svg?style=flat
 [badge-js-ir]: https://img.shields.io/badge/support-[IR]-AAC4E0.svg?style=flat
