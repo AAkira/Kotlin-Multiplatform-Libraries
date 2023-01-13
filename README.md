@@ -521,6 +521,21 @@
 ![badge][badge-android]
 ![badge][badge-ios]
 
+* [Event4k](https://github.com/nort3x/Event4k) - MultiPlatform Kotlin EventBus library - simple, bidirectional, concurrent.  
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-js-ir]
+![badge][badge-nodejs]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-wasm]
+![badge][badge-apple-silicon]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+
 #### Number
 
 * [kotlin-multiplatform-bignum](https://github.com/ionspin/kotlin-multiplatform-bignum) - A Kotlin multiplatform library for arbitrary precision arithmetics  
