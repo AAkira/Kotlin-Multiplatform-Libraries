@@ -588,6 +588,8 @@
 * [secure-random](https://github.com/05nelsonm/secure-random) - Cryptographically secure random number generator, `SecureRandom`.   
 ![badge][badge-android]
 ![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-nodejs]
 ![badge][badge-linux]
 ![badge][badge-windows]
 ![badge][badge-ios]
@@ -595,6 +597,7 @@
 ![badge][badge-watchos]
 ![badge][badge-tvos]
 ![badge][badge-android-native]
+![badge][badge-js-ir]
 ![badge][badge-apple-silicon]
 
 #### String Utils
