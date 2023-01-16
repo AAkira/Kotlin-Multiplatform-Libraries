@@ -585,6 +585,18 @@
 ![badge][badge-watchos]
 ![badge][badge-tvos]
 
+* [secure-random](https://github.com/05nelsonm/secure-random) - Cryptographically secure random number generator, `SecureRandom`.   
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-android-native]
+![badge][badge-apple-silicon]
+
 #### String Utils
 
 * [FuzzyWuzzy-Kotlin](https://github.com/willowtreeapps/fuzzywuzzy-kotlin) - Fuzzy string matching on collections.  Port of python & java library.
