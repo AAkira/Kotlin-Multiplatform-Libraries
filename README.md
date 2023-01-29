@@ -100,7 +100,7 @@
 
 ### Repository
 
-* [org.mobilenativefoundation.Store](https://github.com/MobileNativeFoundation/Store) - A Kotlin Multiplatform library for building network-resilient applications.  
+* [Store](https://github.com/MobileNativeFoundation/Store) - A Kotlin Multiplatform library for building network-resilient applications.  
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-js]
