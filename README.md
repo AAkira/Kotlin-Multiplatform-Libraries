@@ -53,6 +53,10 @@
 ![badge][badge-windows]
 ![badge][badge-mac]
 
+* [fuel](https://github.com/kittinunf/fuel) - The easiest HTTP networking library for Kotlin backed by Kotlinx Coroutines.  
+![badge][badge-android]
+![badge][badge-jvm]
+
 #### GraphQL
 
 * [apollo](https://www.apollographql.com/docs/android/essentials/get-started-multiplatform/) - Multiplatform official GraphQL client.  
@@ -155,6 +159,38 @@
 ![badge][badge-tvos]
 ![badge][badge-watchos]
 ![badge][badge-windows]
+
+* [encoding](https://github.com/05nelsonm/component-encoding) - Rfc 4648 Section 4-8 compliant encoding (Base 16, 32 Crockford, 32 Default, 32 Hex, 64 Default, 64 Url Safe).  
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-nodejs]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-wasm]
+![badge][badge-android-native]
+![badge][badge-js-ir]
+![badge][badge-apple-silicon]
+
+* [parcelize](https://github.com/05nelsonm/component-parcelize) - Implement Android `Parcelable` from common code.  
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-nodejs]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-wasm]
+![badge][badge-android-native]
+![badge][badge-js-ir]
+![badge][badge-apple-silicon]
 
 ### Storage
 
@@ -496,6 +532,21 @@
 ![badge][badge-android]
 ![badge][badge-ios]
 
+* [Event4k](https://github.com/nort3x/Event4k) - MultiPlatform Kotlin EventBus library - simple, bidirectional, concurrent.  
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-js-ir]
+![badge][badge-nodejs]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-wasm]
+![badge][badge-apple-silicon]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+
 #### Number
 
 * [kotlin-multiplatform-bignum](https://github.com/ionspin/kotlin-multiplatform-bignum) - A Kotlin multiplatform library for arbitrary precision arithmetics  
@@ -581,18 +632,6 @@
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-js]
-![badge][badge-jvm]
-![badge][badge-linux]
-![badge][badge-windows]
-![badge][badge-mac]
-![badge][badge-watchos]
-![badge][badge-tvos]
-
-* [encoding](https://github.com/05nelsonm/component-encoding) - Base 16/32/64 encoding.  
-![badge][badge-android]
-![badge][badge-ios]
-![badge][badge-js]
-![badge][badge-nodejs]
 ![badge][badge-jvm]
 ![badge][badge-linux]
 ![badge][badge-windows]
@@ -715,6 +754,22 @@
 ![badge][badge-linux]
 ![badge][badge-windows]
 ![badge][badge-mac]
+![badge][badge-apple-silicon]
+
+* [value-clazz](https://github.com/05nelsonm/component-value-clazz) - Functionally equivalent to a Kotlin `value class` that implements an interface, but inheritance based and compiles to platform code.  
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-nodejs]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-wasm]
+![badge][badge-android-native]
+![badge][badge-js-ir]
 ![badge][badge-apple-silicon]
 
 ### Debug
@@ -1085,12 +1140,26 @@ fully covered API and a lot of additional DSLs on top of base API.
 ![badge][badge-jvm]
 ![badge][badge-js]![badge][badge-js-ir]
 
+### Math
+
+* [Multiplatform expressions evaluator](https://github.com/murzagalin/multiplatform-expressions-evaluator) - Runtime infix expressions evaluator.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-tvos]
+![badge][badge-watchos]
+![badge][badge-windows]
+
 ## Contribute
 
 Welcome contribute!
 Please read the [contribution guidelines](Contributing.md) first.
 
 [badge-android]: http://img.shields.io/badge/-android-6EDB8D.svg?style=flat
+[badge-android-native]: http://img.shields.io/badge/support-[AndroidNative]-6EDB8D.svg?style=flat
 [badge-jvm]: http://img.shields.io/badge/-jvm-DB413D.svg?style=flat
 [badge-js]: http://img.shields.io/badge/-js-F8DB5D.svg?style=flat
 [badge-js-ir]: https://img.shields.io/badge/support-[IR]-AAC4E0.svg?style=flat
