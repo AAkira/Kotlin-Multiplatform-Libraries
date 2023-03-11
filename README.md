@@ -76,6 +76,14 @@
 ![badge][badge-android]
 ![badge][badge-ios]
 
+#### JSON-RPC
+
+* [apollo](https://github.com/Reedyuk/jsonrpc-kotlin-client) -JSON-RPC Kotlin Multiplatform client.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-jvm]
+![badge][badge-js]
+
 #### Stomp
 
 * [krossbow](https://github.com/joffrey-bion/krossbow) - A Kotlin multiplatform coroutine-based STOMP client over websockets  
