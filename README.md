@@ -1,6 +1,7 @@
 # Kotlin Multiplatform Libraries
 
 * [Network](#network)
+* [Repository](#repository)
 * [Serializer](#serializer)
 * [Storage](#storage)
 * [DI](#di)
@@ -92,6 +93,14 @@
 #### Authentication
 
 * [cognito-idp](https://github.com/Liftric/cognito-idp) - Lightweight AWS Cognito Identity Provider client for Kotlin Multiplatform projects.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+
+### Repository
+
+* [Store](https://github.com/MobileNativeFoundation/Store) - A Kotlin Multiplatform library for building network-resilient applications.  
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-js]
