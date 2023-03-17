@@ -1137,6 +1137,8 @@
 
 * [multiplatform-swiftpackage](https://github.com/ge-org/multiplatform-swiftpackage) - This is a Gradle plugin for Kotlin Multiplatform projects that generates an XCFramework for your native Apple targets and creates a matching Package.swift file to distribute it as a binary target.  
 
+* [Swift Klib](https://github.com/ttypic/swift-klib-plugin) - This is a Gradle Plugin to build Swift code as part of your Kotlin Multiplatform project. With this plugin, you can access Swift-only iOS libraries, such as CryptoKit and experiment with Swift to Kotlin interoperability.  
+
 ### Artificial Intelligence
 
 #### Symbolic AI
