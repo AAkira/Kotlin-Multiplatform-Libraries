@@ -279,7 +279,7 @@
 
 #### FILE
 
-* [okio](https://github.com/square/okio) - A modern I/O library for Android, Kotlin, and Java.[WIP]  
+* [okio](https://github.com/square/okio) - A modern I/O library for Android, Java, and Kotlin Multiplatform.  
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-js]
