@@ -1084,6 +1084,15 @@
 ![badge][badge-ios]
 ![badge][badge-jvm]
 
+* [kmp-viewmodel](https://github.com/hoc081098/kmp-viewmodel) - Shared ViewModel in Kotlin Multiplatform - A Kotlin Multiplatform library that provides shared MVVM for UI applications. Components are lifecycle-aware on Android.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-mac]
+![badge][badge-tvos]
+![badge][badge-watchos]
+
 #### Project templates 
 
 * [moko-template](https://github.com/icerockdev/moko-template) - Template project of a Mobile (Android & iOS) Kotlin MultiPlatform project with the MOKO libraries and modularized architecture   
