@@ -149,6 +149,17 @@
 ![badge][badge-watchos]
 ![badge][badge-windows]
 
+* [Ktoml](https://github.com/akuleshov7/ktoml) - MPP serialization library (decoder/encoder) for TOML format.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-tvos]
+![badge][badge-watchos]
+![badge][badge-windows]
+
 * [encoding](https://github.com/05nelsonm/component-encoding) - Rfc 4648 Section 4-8 compliant encoding (Base 16, 32 Crockford, 32 Default, 32 Hex, 64 Default, 64 Url Safe).  
 ![badge][badge-android]
 ![badge][badge-jvm]
