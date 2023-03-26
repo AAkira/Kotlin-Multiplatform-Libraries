@@ -322,6 +322,19 @@
 ![badge][badge-watchos]
 ![badge][badge-windows]
 
+#### File System
+
+* [Kfswatch](https://github.com/irgaly/kfswatch) - Kotlin Multiplatform File System Watcher  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-tvos]
+![badge][badge-watchos]
+![badge][badge-windows]
+
 ### DI
 
 * [Kodein-DI](https://github.com/Kodein-Framework/Kodein-DI) - Painless Kotlin Dependency Injection  
