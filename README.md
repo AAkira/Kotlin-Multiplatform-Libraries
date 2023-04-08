@@ -351,7 +351,14 @@
 
 * [Koin](https://github.com/InsertKoinIO/koin) -  A pragmatic lightweight dependency injection framework for Kotlin  
 ![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
 ![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
 
 * [PopKorn](https://github.com/corbella83/PopKorn) - Forget about modules and components. DI can be simple.  
 ![badge][badge-android]
@@ -359,8 +366,28 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 ![badge][badge-linux]
+
+* [kotlin-inject](https://github.com/evant/kotlin-inject) - Dependency injection lib for kotlin.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
 ![badge][badge-mac]
-  
+![badge][badge-watchos]
+![badge][badge-tvos]
+
+* [Koject](https://github.com/mori-atsushi/koject) - DI Container library for Kotlin Multiplatform.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+
 ### Image
 
 * [korim](https://github.com/korlibs/korim) - Kotlin cORoutines IMaging, Bitmap and Vector graphics for Multiplatform Kotlin   
