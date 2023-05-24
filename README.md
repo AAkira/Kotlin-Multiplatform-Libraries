@@ -899,6 +899,17 @@
 
 ### Test
 
+* [assertk](https://github.com/willowtreeapps/assertk) - Assertions for kotlin inspired by assertj.  
+![badge][badge-jvm]
+![badge][badge-android]
+![badge][badge-js]
+![badge][badge-mac]
+![badge][badge-ios]
+![badge][badge-tvos]
+![badge][badge-watchos]
+![badge][badge-linux]
+![badge][badge-windows]
+
 * [Atrium](https://github.com/robstoll/atrium) - A multiplatform assertion library for Kotlin.  
 ![badge][badge-android]
 ![badge][badge-js]
