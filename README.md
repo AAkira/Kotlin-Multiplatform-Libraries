@@ -725,6 +725,14 @@
 ![badge][badge-android]
 ![badge][badge-ios]
 
+* [sentry-kotlin-multiplatform](https://github.com/getsentry/sentry-kotlin-multiplatform) - [Sentry](https://sentry.io/) SDK for Kotlin Multiplatform.
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-tvos]
+![badge][badge-watchos]
+
 #### Atomic
 
 * [AtomicFu](https://github.com/Kotlin/kotlinx.atomicfu) - The idiomatic way to use atomic operations in Kotlin  
