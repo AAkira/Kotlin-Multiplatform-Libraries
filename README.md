@@ -725,7 +725,7 @@
 ![badge][badge-android]
 ![badge][badge-ios]
 
-* [sentry-kotlin-multiplatform](https://github.com/getsentry/sentry-kotlin-multiplatform) - [Sentry](https://sentry.io/) SDK for Kotlin Multiplatform.
+* [sentry-kotlin-multiplatform](https://github.com/getsentry/sentry-kotlin-multiplatform) - [Sentry](https://sentry.io/) SDK for Kotlin Multiplatform.  
 ![badge][badge-android]
 ![badge][badge-jvm]
 ![badge][badge-ios]
