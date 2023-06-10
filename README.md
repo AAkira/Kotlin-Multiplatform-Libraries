@@ -1008,6 +1008,7 @@
 ![badge][badge-ios]
 
 * [koala-plot](https://github.com/KoalaPlot) - A Compose Multiplatform based charting and plotting library written in Kotlin
+
 ![badge][badge-android]
 ![badge][badge-jvm]
 ![badge][badge-js]
