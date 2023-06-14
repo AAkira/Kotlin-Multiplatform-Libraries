@@ -969,6 +969,16 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 
+* [trckr](https://github.com/dzmpr/trckr) - KSP processer that simplifies the collection of analytics  
+![badge][badge-jvm]
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-mac]
+![badge][badge-windows]
+![badge][badge-linux]
+
 ### GUI
 
 * [moko-widgets](https://github.com/icerockdev/moko-widgets) - Declarative UI and screens management in common code for mobile (android & ios) Kotlin Multiplatform development  
