@@ -58,6 +58,17 @@
 ![badge][badge-android]
 ![badge][badge-jvm]
 
+* [rsocket-kotlin](https://github.com/rsocket/rsocket-kotlin) - [RSocket](https://rsocket.io) Kotlin multi-platform implementation based on [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) and [Ktor](https://github.com/ktorio/ktor).   
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-windows]
+![badge][badge-watchos]
+![badge][badge-tvos]
+
 #### GraphQL
 
 * [apollo](https://www.apollographql.com/docs/android/essentials/get-started-multiplatform/) - Multiplatform official GraphQL client.  
@@ -631,7 +642,7 @@
 ![badge][badge-windows]
 ![badge][badge-linux]
 
-#### Cipher
+#### Cryptography
 
 * [krypt](https://github.com/korlibs/krypto) - Cryptography library. Support for SecureRandom, Hash(MD5/SHA1/SHA256), AES.  
 ![badge][badge-android]
@@ -652,6 +663,15 @@
 ![badge][badge-windows]
 ![badge][badge-watchos]
 ![badge][badge-tvos]
+
+* [cryptography-kotlin](https://github.com/whyoleg/cryptography-kotlin) - Type-safe Multiplatform cryptography library for Kotlin which doesn't implement any cryptography algorithm on its own, but wraps well-known future-proof solutions like [OpenSSL 3.x](https://www.openssl.org), [WebCrypto](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API) or [JCA](https://docs.oracle.com/en/java/javase/17/security/java-cryptography-architecture-jca-reference-guide.html).   
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-windows]
 
 #### String Utils
 
