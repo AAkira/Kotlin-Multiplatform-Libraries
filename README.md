@@ -1315,6 +1315,12 @@
 ![badge][badge-jvm]
 ![badge][badge-nodejs]
 
+* [Y-Chat](https://github.com/yml-org/ychat) - Y—Chat is a Kotlin Multiplatform (KMP) project that provides a simple API for integrating the powerful ChatGPT language model developed by OpenAI into mobile applications running on multi platforms.  
+![badge][badge-jvm]
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-mac]
+
 ### Social
 
 #### tgbotapi
