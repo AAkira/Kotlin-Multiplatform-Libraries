@@ -401,7 +401,7 @@
 
 ### Image
 
-* [korim](https://github.com/korlibs/korim) - Kotlin cORoutines IMaging, Bitmap and Vector graphics for Multiplatform Kotlin   
+* [korim](https://github.com/korlibs/korge/tree/main/korim) - Kotlin cORoutines IMaging, Bitmap and Vector graphics for Multiplatform Kotlin   
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-js]
@@ -673,6 +673,69 @@
 ![badge][badge-mac]
 ![badge][badge-windows]
 
+* [KotlinCrypto/hash](https://github.com/KotlinCrypto/hash) - Hash functions (MD5/SHA1/SHA2/SHA3).   
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-nodejs]
+![badge][badge-wasm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-android-native]
+![badge][badge-js-ir]
+![badge][badge-apple-silicon]
+
+* [KotlinCrypto/MACs](https://github.com/KotlinCrypto/MACs) - Message Authentication Code functions (Hmac MD5/SHA1/SHA2/SHA3, KMAC).   
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-nodejs]
+![badge][badge-wasm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-android-native]
+![badge][badge-js-ir]
+![badge][badge-apple-silicon]
+
+* [KotlinCrypto/sponges](https://github.com/KotlinCrypto/sponges) - Sponge functions & state (Keccak-p).   
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-nodejs]
+![badge][badge-wasm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-android-native]
+![badge][badge-js-ir]
+![badge][badge-apple-silicon]
+
+* [KotlinCrypto/secure-random](https://github.com/KotlinCrypto/secure-random) - Cryptographically secure random number generator, `SecureRandom`.   
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-nodejs]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-android-native]
+![badge][badge-js-ir]
+![badge][badge-apple-silicon]
+
 #### String Utils
 
 * [FuzzyWuzzy-Kotlin](https://github.com/willowtreeapps/fuzzywuzzy-kotlin) - Fuzzy string matching on collections.  Port of python & java library.
@@ -745,6 +808,14 @@
 ![badge][badge-android]
 ![badge][badge-ios]
 
+* [sentry-kotlin-multiplatform](https://github.com/getsentry/sentry-kotlin-multiplatform) - [Sentry](https://sentry.io/) SDK for Kotlin Multiplatform.  
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-tvos]
+![badge][badge-watchos]
+
 #### Atomic
 
 * [AtomicFu](https://github.com/Kotlin/kotlinx.atomicfu) - The idiomatic way to use atomic operations in Kotlin  
@@ -797,6 +868,22 @@
 * [Measured](https://github.com/nacular/measured) - Intuitive, type-safe units of measure.  
 ![badge][badge-jvm]
 ![badge][badge-js]
+
+* [KotlinCrypto/endians](https://github.com/KotlinCrypto/endians) - Utils for converting `Short`, `Int`, `Long` to/from `BigEndian` and `LittleEndian` bytes.   
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-nodejs]
+![badge][badge-wasm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-android-native]
+![badge][badge-js-ir]
+![badge][badge-apple-silicon]
 
 #### Monads
 
@@ -919,6 +1006,17 @@
 
 ### Test
 
+* [assertk](https://github.com/willowtreeapps/assertk) - Assertions for kotlin inspired by assertj.  
+![badge][badge-jvm]
+![badge][badge-android]
+![badge][badge-js]
+![badge][badge-mac]
+![badge][badge-ios]
+![badge][badge-tvos]
+![badge][badge-watchos]
+![badge][badge-linux]
+![badge][badge-windows]
+
 * [Atrium](https://github.com/robstoll/atrium) - A multiplatform assertion library for Kotlin.  
 ![badge][badge-android]
 ![badge][badge-js]
@@ -974,6 +1072,15 @@
 ![badge][badge-windows]
 ![badge][badge-linux]
 
+* [Truthish](https://github.com/varabyte/truthish) - Multiplatform library with a testing API inspired by Google Truth.  
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-windows]
+![badge][badge-linux]
+
 ### Annotation Processor
 
 * [MpApt](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library  
@@ -988,6 +1095,16 @@
 ![badge][badge-ios]
 ![badge][badge-js]
 ![badge][badge-jvm]
+
+* [trckr](https://github.com/dzmpr/trckr) - KSP processer that simplifies the collection of analytics  
+![badge][badge-jvm]
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-mac]
+![badge][badge-windows]
+![badge][badge-linux]
 
 ### GUI
 
@@ -1027,6 +1144,11 @@
 ![badge][badge-android]
 ![badge][badge-ios]
 
+* [koala-plot](https://github.com/KoalaPlot) - A Compose Multiplatform based charting and plotting library written in Kotlin  
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-js]
+
 ### Command Line Interface
 
 * [Clikt](https://github.com/ajalt/clikt) - Multiplatform command line interface parsing for Kotlin  
@@ -1041,6 +1163,12 @@
 ![badge][badge-jvm]
 ![badge][badge-linux]
 ![badge][badge-windows]
+
+* [Kotter](https://github.com/varabyte/kotter) - Multiplatform library for Kotlin command-line applications with support for text styling, animations, timers, and input.  
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
 
 * [Mordant](https://github.com/ajalt/mordant) - Multiplatform text styling for Kotlin command-line applications  
 ![badge][badge-js]
@@ -1229,6 +1357,12 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 ![badge][badge-nodejs]
+
+* [Y-Chat](https://github.com/yml-org/ychat) - Y—Chat is a Kotlin Multiplatform (KMP) project that provides a simple API for integrating the powerful ChatGPT language model developed by OpenAI into mobile applications running on multi platforms.  
+![badge][badge-jvm]
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-mac]
 
 ### Social
 
