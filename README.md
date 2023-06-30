@@ -954,6 +954,15 @@
 ![badge][badge-windows]
 ![badge][badge-linux]
 
+* [Truthish](https://github.com/varabyte/truthish) - Multiplatform library with a testing API inspired by Google Truth.  
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-windows]
+![badge][badge-linux]
+
 ### Annotation Processor
 
 * [MpApt](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library  
