@@ -631,6 +631,54 @@
 ![badge][badge-windows]
 ![badge][badge-linux]
 
+* [KotlinCrypto/hash](https://github.com/KotlinCrypto/hash) - Hash functions (MD5/SHA1/SHA2/SHA3).   
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-nodejs]
+![badge][badge-wasm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-android-native]
+![badge][badge-js-ir]
+![badge][badge-apple-silicon]
+
+* [KotlinCrypto/MACs](https://github.com/KotlinCrypto/MACs) - Message Authentication Code functions (Hmac MD5/SHA1/SHA2/SHA3, KMAC).   
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-nodejs]
+![badge][badge-wasm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-android-native]
+![badge][badge-js-ir]
+![badge][badge-apple-silicon]
+
+* [KotlinCrypto/sponges](https://github.com/KotlinCrypto/sponges) - Sponge functions & state (Keccak-p).   
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-nodejs]
+![badge][badge-wasm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-android-native]
+![badge][badge-js-ir]
+![badge][badge-apple-silicon]
+
 #### Cipher
 
 * [krypt](https://github.com/korlibs/krypto) - Cryptography library. Support for SecureRandom, Hash(MD5/SHA1/SHA256), AES.  
@@ -652,6 +700,21 @@
 ![badge][badge-windows]
 ![badge][badge-watchos]
 ![badge][badge-tvos]
+
+* [KotlinCrypto/secure-random](https://github.com/KotlinCrypto/secure-random) - Cryptographically secure random number generator, `SecureRandom`.   
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-nodejs]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-android-native]
+![badge][badge-js-ir]
+![badge][badge-apple-silicon]
 
 #### String Utils
 
@@ -777,6 +840,22 @@
 * [Measured](https://github.com/nacular/measured) - Intuitive, type-safe units of measure.  
 ![badge][badge-jvm]
 ![badge][badge-js]
+
+* [KotlinCrypto/endians](https://github.com/KotlinCrypto/endians) - Utils for converting `Short`, `Int`, `Long` to/from `BigEndian` and `LittleEndian` bytes.   
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-nodejs]
+![badge][badge-wasm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-android-native]
+![badge][badge-js-ir]
+![badge][badge-apple-silicon]
 
 #### Monads
 
