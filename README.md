@@ -1022,6 +1022,12 @@
 ![badge][badge-linux]
 ![badge][badge-windows]
 
+* [Kotter](https://github.com/varabyte/kotter) - Multiplatform library for Kotlin command-line applications with support for text styling, animations, timers, and input.  
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+
 * [Mordant](https://github.com/ajalt/mordant) - Multiplatform text styling for Kotlin command-line applications  
 ![badge][badge-js]
 ![badge][badge-jvm]
