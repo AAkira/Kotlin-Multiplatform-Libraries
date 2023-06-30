@@ -412,6 +412,22 @@
 ![badge][badge-watchos]
 ![badge][badge-windows]
 
+* [Kraphviz](https://github.com/Yeicor/kraphviz) - [Graphviz](https://graphviz.org/) for Kotlin Multiplatform.  
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-nodejs]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-wasm]
+![badge][badge-android-native]
+![badge][badge-js-ir]
+![badge][badge-apple-silicon]
+
 ### Audio
 
 * [korau](https://github.com/korlibs/korau) - Pure Kotlin WAV, MP3 and OGG vorbis decoders  
@@ -921,6 +937,24 @@
 ![badge][badge-apple-silicon]
 
 * [value-clazz](https://github.com/05nelsonm/component-value-clazz) - Functionally equivalent to a Kotlin `value class` that implements an interface, but inheritance based and compiles to platform code.  
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-nodejs]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-wasm]
+![badge][badge-android-native]
+![badge][badge-js-ir]
+![badge][badge-apple-silicon]
+
+#### WebAssembly
+
+* [ktmpwasm](https://github.com/Yeicor/ktmpwasm) - A WebAssembly interpreter for Kotlin Multiplatform.  
 ![badge][badge-android]
 ![badge][badge-jvm]
 ![badge][badge-js]
