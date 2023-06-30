@@ -428,7 +428,7 @@
 ![badge][badge-js-ir]
 ![badge][badge-apple-silicon]
 
-* [Kim - Kotlin Image Metadata](https://github.com/Ashampoo/kim) - Kotlin Multiplatform library for reading and writing image metadata
+* [Kim - Kotlin Image Metadata](https://github.com/Ashampoo/kim) - Kotlin Multiplatform library for reading and writing image metadata.  
 ![badge][badge-android]
 ![badge][badge-jvm]
 ![badge][badge-ios]
