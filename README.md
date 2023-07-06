@@ -69,6 +69,13 @@
 ![badge][badge-watchos]
 ![badge][badge-tvos]
 
+* [kotliny.network](https://github.com/corbella83/kotliny.network) - Simple, powerful and lightweight Kotlin Multiplatform Network Client.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+
 #### GraphQL
 
 * [apollo](https://www.apollographql.com/docs/android/essentials/get-started-multiplatform/) - Multiplatform official GraphQL client.  
