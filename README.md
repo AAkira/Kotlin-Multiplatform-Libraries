@@ -985,7 +985,7 @@
 
 #### Metadata
 
-* [XMP Core for Kotlin Multiplatform](https://github.com/Ashampoo/xmpcore) - Kotlin Multiplatform port of Adobe's XMP SDK  
+* [XMP Core for Kotlin Multiplatform](https://github.com/Ashampoo/xmpcore) - Kotlin Multiplatform port of Adobe's XMP SDK.  
 ![badge][badge-android]
 ![badge][badge-jvm]
 ![badge][badge-ios]
