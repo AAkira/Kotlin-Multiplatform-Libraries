@@ -983,6 +983,14 @@
 ![badge][badge-js-ir]
 ![badge][badge-apple-silicon]
 
+#### Metadata
+
+* [XMP Core for Kotlin Metadata](https://github.com/Ashampoo/xmpcore) - Kotlin Multiplatform port of Adobe's XMP SDK  
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-ios]
+![badge][badge-mac]
+
 ### Debug
 
 #### Logging
