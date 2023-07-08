@@ -599,6 +599,14 @@
 ![badge][badge-mac]
 ![badge][badge-windows]
 
+* [Kronos Multiplatform](https://github.com/softartdev/Kronos-Multiplatform) - Network Time Protocol (NTP) library  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-jvm]
+![badge][badge-mac]
+![badge][badge-linux]
+![badge][badge-windows]
+
 #### Semantic Versioning
 
 * [SemVer-KMP](https://github.com/QazCetelic/SemVer-KMP) - A Kotlin library for Semantic Versioning with ranges and other features.  
@@ -1195,6 +1203,14 @@
 ![badge][badge-android]
 ![badge][badge-jvm]
 ![badge][badge-js]
+
+* [Material Theme Preferences](https://github.com/softartdev/MaterialThemePrefs) - Switching Dark/Light Material themes on Compose  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-jvm]
+![badge][badge-mac]
+![badge][badge-linux]
+![badge][badge-windows]
 
 ### Command Line Interface
 
