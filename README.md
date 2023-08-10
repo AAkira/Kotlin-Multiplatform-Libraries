@@ -270,7 +270,7 @@
 ![badge][badge-tvos]
 ![badge][badge-watchos]
 
-* [Couchbaselite](https://github.com/MyUNiDAYS/couchbaselite-kotlin-sdk) - Kotlin Multiplatform wrapper for the Couchbase Lite Mobile Database. 
+* [Couchbaselite](https://github.com/MyUNiDAYS/couchbaselite-kotlin-sdk) - Kotlin Multiplatform wrapper for the Couchbase Lite Mobile Database.  
 ![badge][badge-android]
 ![badge][badge-ios]
 
