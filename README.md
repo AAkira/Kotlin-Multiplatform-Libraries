@@ -939,7 +939,7 @@
 ![badge][badge-js-ir]
 ![badge][badge-apple-silicon]
 
-* [ApiResult](https://github.com/respawn-app/ApiResult) - A monad for declarative & functional error-handling with a rich DSL.
+* [ApiResult](https://github.com/respawn-app/ApiResult) - A monad for declarative & functional error-handling with a rich DSL.  
 
 ![badge][badge-android]
 ![badge][badge-jvm]
@@ -1282,7 +1282,7 @@
 ![badge][badge-mac]
 ![badge][badge-wasm]
 
-* [FlowMVI](https://github.com/respawn-app/FlowMVI) - Plugin-based Kotlin Multiplatform MVI framework.
+* [FlowMVI](https://github.com/respawn-app/FlowMVI) - Plugin-based Kotlin Multiplatform MVI framework.  
 
 ![badge][badge-android]
 ![badge][badge-jvm]
