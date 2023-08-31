@@ -1197,9 +1197,7 @@
 ![badge][badge-js]
 
 
-* [typist-cmp](https://github.com/zeeshanali-k/typist-cmp) - A Highly Customisable Typing Animation Library for Compose Multiplatform (Android & iOS)
-
-
+* [typist-cmp](https://github.com/zeeshanali-k/typist-cmp) - A Highly Customisable Typing Animation Library for Compose Multiplatform (Android & iOS)  
 ![badge][badge-android]
 ![badge][badge-ios]
 
