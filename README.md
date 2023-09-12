@@ -1128,6 +1128,9 @@
 ![badge][badge-windows]
 ![badge][badge-linux]
 
+* [jsmints](https://github.com/robertfmurdock/jsmints) - A suite of libraries and gradle plugins for working with Kotlin JS, with a focus on testing and version updating.  
+  ![badge][badge-js]
+
 ### Annotation Processor
 
 * [MpApt](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library  
