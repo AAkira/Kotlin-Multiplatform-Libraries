@@ -1153,6 +1153,10 @@
 ![badge][badge-windows]
 ![badge][badge-linux]
 
+* [KMP-ComposeUIViewController](https://github.com/GuilhE/KMP-ComposeUIViewController) - KSP library for generating ComposeUIViewController and UIViewControllerRepresentable files when using Compose Multiplatform for iOS  
+![badge][badge-ios]
+![badge][badge-jvm]
+
 ### GUI
 
 * [moko-widgets](https://github.com/icerockdev/moko-widgets) - Declarative UI and screens management in common code for mobile (android & ios) Kotlin Multiplatform development  
