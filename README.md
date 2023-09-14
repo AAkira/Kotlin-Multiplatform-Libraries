@@ -1245,6 +1245,10 @@
 ![badge][badge-linux]
 ![badge][badge-windows]
 
+* [typist-cmp](https://github.com/zeeshanali-k/typist-cmp) - A Highly Customisable Typing Animation Library for Compose Multiplatform (Android & iOS)  
+![badge][badge-android]
+![badge][badge-ios]
+
 ### Command Line Interface
 
 * [Clikt](https://github.com/ajalt/clikt) - Multiplatform command line interface parsing for Kotlin  
