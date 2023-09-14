@@ -116,6 +116,16 @@
 ![badge][badge-android]
 ![badge][badge-ios]
 
+* [Highlights](https://github.com/SnipMeDev/Highlights) - Kotlin Multiplatform syntax highlighting engine.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+![badge][badge-js-ir]
+
 #### Authentication
 
 * [cognito-idp](https://github.com/Liftric/cognito-idp) - Lightweight AWS Cognito Identity Provider client for Kotlin Multiplatform projects.  
@@ -270,6 +280,10 @@
 ![badge][badge-tvos]
 ![badge][badge-watchos]
 
+* [Couchbaselite](https://github.com/MyUNiDAYS/couchbaselite-kotlin-sdk) - Kotlin Multiplatform wrapper for the Couchbase Lite Mobile Database.  
+![badge][badge-android]
+![badge][badge-ios]
+
 #### KVS
 
 * [multiplatform-settings](https://github.com/russhwolf/multiplatform-settings) - A Kotlin Multiplatform library for saving simple key-value data.  
@@ -311,6 +325,11 @@
 ![badge][badge-tvos]
 ![badge][badge-watchos]
 ![badge][badge-windows]
+
+* [Universal-Cache](https://github.com/andrew0000/universal-cache) - Kotlin Flow caching and request sharing. Main idea: don't request data more times than it's needed.  
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-ios]
 
 #### FILE
 
@@ -597,6 +616,14 @@
 ![badge][badge-jvm]
 ![badge][badge-linux]
 ![badge][badge-mac]
+![badge][badge-windows]
+
+* [Kronos Multiplatform](https://github.com/softartdev/Kronos-Multiplatform) - Network Time Protocol (NTP) library  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-jvm]
+![badge][badge-mac]
+![badge][badge-linux]
 ![badge][badge-windows]
 
 #### Semantic Versioning
@@ -983,6 +1010,14 @@
 ![badge][badge-js-ir]
 ![badge][badge-apple-silicon]
 
+#### Metadata
+
+* [XMP Core for Kotlin Multiplatform](https://github.com/Ashampoo/xmpcore) - Kotlin Multiplatform port of Adobe's XMP SDK.  
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-ios]
+![badge][badge-mac]
+
 ### Debug
 
 #### Logging
@@ -1195,6 +1230,14 @@
 ![badge][badge-android]
 ![badge][badge-jvm]
 ![badge][badge-js]
+
+* [Material Theme Preferences](https://github.com/softartdev/MaterialThemePrefs) - Switching Dark/Light Material themes on Compose  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-jvm]
+![badge][badge-mac]
+![badge][badge-linux]
+![badge][badge-windows]
 
 * [DrawBox](https://github.com/MarkYav/DrawBox) - The first multiplatform library to draw anything on canvas.  
 ![badge][badge-android]
