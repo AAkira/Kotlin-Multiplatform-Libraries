@@ -312,6 +312,11 @@
 ![badge][badge-watchos]
 ![badge][badge-windows]
 
+* [Universal-Cache](https://github.com/andrew0000/universal-cache) - Kotlin Flow caching and request sharing. Main idea: don't request data more times than it's needed.  
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-ios]
+
 #### FILE
 
 * [okio](https://github.com/square/okio) - A modern I/O library for Android, Java, and Kotlin Multiplatform.  
