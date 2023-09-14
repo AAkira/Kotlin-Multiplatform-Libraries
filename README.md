@@ -1018,6 +1018,13 @@
 ![badge][badge-ios]
 ![badge][badge-mac]
 
+#### Parsing
+
+* [RSS-Parser](https://github.com/prof18/RSS-Parser) - A Kotlin Multiplatform library to parse a RSS Feed  
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-ios]
+
 ### Debug
 
 #### Logging
