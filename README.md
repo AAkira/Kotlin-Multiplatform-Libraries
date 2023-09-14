@@ -280,6 +280,10 @@
 ![badge][badge-tvos]
 ![badge][badge-watchos]
 
+* [Couchbaselite](https://github.com/MyUNiDAYS/couchbaselite-kotlin-sdk) - Kotlin Multiplatform wrapper for the Couchbase Lite Mobile Database.  
+![badge][badge-android]
+![badge][badge-ios]
+
 #### KVS
 
 * [multiplatform-settings](https://github.com/russhwolf/multiplatform-settings) - A Kotlin Multiplatform library for saving simple key-value data.  
