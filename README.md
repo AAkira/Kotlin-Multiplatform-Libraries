@@ -116,6 +116,16 @@
 ![badge][badge-android]
 ![badge][badge-ios]
 
+* [Highlights](https://github.com/SnipMeDev/Highlights) - Kotlin Multiplatform syntax highlighting engine.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+![badge][badge-js-ir]
+
 #### Authentication
 
 * [cognito-idp](https://github.com/Liftric/cognito-idp) - Lightweight AWS Cognito Identity Provider client for Kotlin Multiplatform projects.  
