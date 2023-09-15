@@ -966,6 +966,18 @@
 ![badge][badge-js-ir]
 ![badge][badge-apple-silicon]
 
+* [ApiResult](https://github.com/respawn-app/ApiResult) - A monad for declarative & functional error-handling with a rich DSL.  
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-nodejs]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+
 * [Résultat](https://github.com/nicolashaan/resultat) - A fork of Kotlin Result with a loading state.  
 ![badge][badge-jvm]
 ![badge][badge-js]
@@ -1350,6 +1362,18 @@
 ![badge][badge-windows]
 ![badge][badge-mac]
 ![badge][badge-wasm]
+
+* [FlowMVI](https://github.com/respawn-app/FlowMVI) - Plugin-based Kotlin Multiplatform MVI framework.  
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-nodejs]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
 
 * [ReKamp](https://github.com/xorum-io/ReKamp) - Port of [ReKotlin](https://github.com/ReKotlin/ReKotlin) to Kotlin Multiplatform, which corresponds to [ReKotlin/1.0.4](https://github.com/ReKotlin/ReKotlin/releases/tag/1.0.4).   
 ![badge][badge-android]
