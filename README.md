@@ -1049,7 +1049,7 @@
 ![badge][badge-tvos]
 ![badge][badge-watchos]
 
-* [Decompose-Router](https://github.com/xxfast/Decompose-Router) - Compose Multiplatform navigation library that leverage Decompose to create an API inspired by Conductor
+* [Decompose-Router](https://github.com/xxfast/Decompose-Router) - Compose Multiplatform navigation library that leverage Decompose to create an API inspired by Conductor  
 ![badge][badge-android]
 ![badge][badge-wearos]
 ![badge][badge-ios]
