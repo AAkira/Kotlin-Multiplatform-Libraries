@@ -1286,6 +1286,16 @@
 ![badge][badge-android]
 ![badge][badge-ios]
 
+* [KodeView](https://github.com/SnipMeDev/KodeView) - Kotlin Multiplatform syntax highlighting views.  
+ ![badge][badge-android]
+ ![badge][badge-ios]
+ ![badge][badge-js]
+ ![badge][badge-jvm]
+ ![badge][badge-linux]
+ ![badge][badge-windows]
+ ![badge][badge-mac]
+ ![badge][badge-js-ir]
+
 ### Command Line Interface
 
 * [Clikt](https://github.com/ajalt/clikt) - Multiplatform command line interface parsing for Kotlin  
