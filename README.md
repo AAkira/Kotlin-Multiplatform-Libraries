@@ -284,6 +284,10 @@
 ![badge][badge-android]
 ![badge][badge-ios]
 
+* [ObjectBox](https://github.com/objectbox/objectbox-java) - Store and manage data effortlessly in your Android or JVM Linux, macOS or Windows app.  
+![badge][badge-android]
+![badge][badge-jvm]
+
 #### KVS
 
 * [multiplatform-settings](https://github.com/russhwolf/multiplatform-settings) - A Kotlin Multiplatform library for saving simple key-value data.  
