@@ -1443,6 +1443,13 @@
 ![badge][badge-tvos]
 ![badge][badge-watchos]
 
+* [Blackbox](https://github.com/trueangle/Blackbox) - A lightweight framework that includes a set of architecture tools and approaches for building scalable, fully multiplatform applications (100% shared logic). Streamlines project modularization through the separation into independent parts and provides features like lifecycle-aware components, declarative navigation, and constructor-based DI.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-mac]
+
 #### Project templates 
 
 * [moko-template](https://github.com/icerockdev/moko-template) - Template project of a Mobile (Android & iOS) Kotlin MultiPlatform project with the MOKO libraries and modularized architecture   
