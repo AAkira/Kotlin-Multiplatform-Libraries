@@ -1402,6 +1402,12 @@
 ![badge][badge-ios]
 ![badge][badge-jvm]
 
+* [CommonStateMachine](https://github.com/motorro/CommonStateMachine) - CommonStateMachine is a small non-opinionated library to implement MVI with the state-machine pattern.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-jvm]
+![badge][badge-js]
+
 * [Premo](https://github.com/dmdevgo/Premo) — Presentation Model (aka View Model) and Navigation. Focus on writing logic instead of solving common and boring UI related issues: lifecycle, persistence, navigation, etc.   
 ![badge][badge-android]
 ![badge][badge-ios]
