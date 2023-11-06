@@ -331,6 +331,10 @@
 ![badge][badge-jvm]
 ![badge][badge-ios]
 
+* [KCrypt](https://github.com/abhriyaroy/KCrypt) - Kotlin encryption key generator and encrypted key-value storage.  
+![badge][badge-android]
+![badge][badge-ios]
+
 #### FILE
 
 * [okio](https://github.com/square/okio) - A modern I/O library for Android, Java, and Kotlin Multiplatform.  
