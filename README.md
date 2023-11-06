@@ -896,6 +896,15 @@
 ![badge][badge-mac]
 ![badge][badge-windows]
 
+* [kotlinx-uuid](https://github.com/hfhbd/kotlinx-uuid) - kotlinx-uuid is a multiplatform (MPP) Kotlin library introducing support for UUID.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-windows]
+
 #### Paging
 
 * [Multiplatform Paging](https://github.com/kuuuurt/multiplatform-paging) - Kotlin Multiplatform library for Pagination on Android and iOS  
