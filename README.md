@@ -1161,6 +1161,17 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 
+* [Mokkery](https://github.com/lupuuss/Mokkery) - Mocking library for Kotlin Multiplatform based on compiler plugin.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+
 * [kotlinx-resources](https://github.com/goncalossilva/kotlinx-resources) - Multiplatform library for reading resources in tests.  
 ![badge][badge-jvm]
 ![badge][badge-js]
