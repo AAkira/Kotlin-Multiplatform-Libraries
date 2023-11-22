@@ -270,7 +270,6 @@
 ![badge][badge-ios]
 ![badge][badge-jvm]
 
-
 #### NoSQL
 
 * [Realm](https://github.com/realm/realm-kotlin) - Kotlin Multiplatform and Android SDK for the Realm Mobile Database: Build Better Apps Faster.  
