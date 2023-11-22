@@ -97,7 +97,7 @@
 
 #### JSON-RPC
 
-* [apollo](https://github.com/Reedyuk/jsonrpc-kotlin-client) -JSON-RPC Kotlin Multiplatform client.  
+* [jsonrpc-kotlin-client](https://github.com/Reedyuk/jsonrpc-kotlin-client) -JSON-RPC Kotlin Multiplatform client.  
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-jvm]
