@@ -271,6 +271,14 @@
 ![badge][badge-android]
 ![badge][badge-ios]
 
+* [Kotbase](https://github.com/jeffdgr8/kotbase) - Kotlin Multiplatform library for Couchbase Lite—a lightweight, embedded, syncable, NoSQL database  
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-linux]
+![badge][badge-windows]
+
 * [Kodein-DB](https://github.com/Kodein-Framework/Kodein-DB) - Embedded NoSQL database  
 ![badge][badge-android]
 ![badge][badge-ios]
