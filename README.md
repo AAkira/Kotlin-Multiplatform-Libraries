@@ -265,6 +265,12 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 
+* [AWS - S3](https://github.com/estivensh4/aws-kmp) - AWSS3 is an AWS extension for KMP.
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-jvm]
+
+
 #### NoSQL
 
 * [Realm](https://github.com/realm/realm-kotlin) - Kotlin Multiplatform and Android SDK for the Realm Mobile Database: Build Better Apps Faster.  
