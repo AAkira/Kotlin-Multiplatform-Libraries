@@ -835,6 +835,12 @@
 ![badge][badge-watchos]
 ![badge][badge-tvos]
 
+* [KeepLink](https://github.com/motorro/KeepLink) -- Kotlin multiplatform deep-link definition, parsing and creation library.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+
 #### Input/Output
 
 * [keyboard-mouse-kt](https://github.com/Animeshz/keyboard-mouse-kt) - Multiplatform Kotlin library for interacting with global keyboard and mouse events and states.  
