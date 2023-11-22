@@ -804,6 +804,21 @@
 ![badge][badge-js-ir]
 ![badge][badge-apple-silicon]
 
+* [DatL4g/Sekret](https://github.com/Datl4g/Sekret) - 🔒 Deeply hide secrets with Kotlin Multiplatform (API Keys, Application credentials, etc).   
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-nodejs]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-android-native]
+![badge][badge-js-ir]
+![badge][badge-apple-silicon]
+
 #### String Utils
 
 * [FuzzyWuzzy-Kotlin](https://github.com/willowtreeapps/fuzzywuzzy-kotlin) - Fuzzy string matching on collections.  Port of python & java library.
