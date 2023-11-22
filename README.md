@@ -501,7 +501,7 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 ![badge][badge-linux]
-![badge][badge-mac]xx
+![badge][badge-mac]
 ![badge][badge-tvos]
 ![badge][badge-watchos]
 ![badge][badge-windows]
