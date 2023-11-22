@@ -265,7 +265,7 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 
-* [AWS - S3](https://github.com/estivensh4/aws-kmp) - AWSS3 is an AWS extension for KMP.
+* [AWS - S3](https://github.com/estivensh4/aws-kmp) - AWS KMP is an extension to AWS Kotlin Multiplatform for JVM, Android and iOS.
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-jvm]
@@ -501,7 +501,7 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 ![badge][badge-linux]
-![badge][badge-mac]
+![badge][badge-mac]xx
 ![badge][badge-tvos]
 ![badge][badge-watchos]
 ![badge][badge-windows]
