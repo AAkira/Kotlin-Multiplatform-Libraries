@@ -1334,6 +1334,15 @@
 ![badge][badge-tvos]
 ![badge][badge-watchos]
 
+* [Decompose-Router](https://github.com/xxfast/Decompose-Router) - Compose Multiplatform navigation library that leverage Decompose to create an API inspired by Conductor  
+![badge][badge-android]
+![badge][badge-wearos]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-mac]
+![badge][badge-watchos]
+
 * [oolong](https://github.com/oolong-kt/oolong) - MVU for Kotlin Multiplatform  
 
 * [moko-mvvm](https://github.com/icerockdev/moko-mvvm) - MVVM architecture components for mobile multiplatform with LiveData (iOS and Android)   
@@ -1543,6 +1552,7 @@ Please read the [contribution guidelines](Contributing.md) first.
 
 [badge-android]: http://img.shields.io/badge/-android-6EDB8D.svg?style=flat
 [badge-android-native]: http://img.shields.io/badge/support-[AndroidNative]-6EDB8D.svg?style=flat
+[badge-wearos]: http://img.shields.io/badge/-wearos-8ECDA0.svg?style=flat
 [badge-jvm]: http://img.shields.io/badge/-jvm-DB413D.svg?style=flat
 [badge-js]: http://img.shields.io/badge/-js-F8DB5D.svg?style=flat
 [badge-js-ir]: https://img.shields.io/badge/support-[IR]-AAC4E0.svg?style=flat
