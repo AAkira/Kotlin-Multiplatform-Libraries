@@ -427,7 +427,7 @@
 
 ### Image
 
-* [korim](https://github.com/korlibs/korge/tree/main/korim) - Kotlin cORoutines IMaging, Bitmap and Vector graphics for Multiplatform Kotlin   
+* [korim](https://github.com/korlibs/korge/tree/main/korge-core#korim) - Kotlin cORoutines IMaging, Bitmap and Vector graphics for Multiplatform Kotlin   
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-js]
