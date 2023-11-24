@@ -265,7 +265,7 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 
-* [AWS - S3](https://github.com/estivensh4/aws-kmp) - AWS KMP is an extension to AWS Kotlin Multiplatform for JVM, Android and iOS.
+* [AWS - S3](https://github.com/estivensh4/aws-kmp) - AWS KMP is an extension to AWS Kotlin Multiplatform for JVM, Android and iOS.  
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-jvm]
