@@ -1079,7 +1079,7 @@
 
 #### Parsing
 
-* [Ksoup](https://github.com/fleeksoft/ksoup) - HTML & XML Parser (Jsoup Alternative)
+* [Ksoup](https://github.com/fleeksoft/ksoup) - HTML & XML Parser (Jsoup Alternative)  
 ![badge][badge-android]
 ![badge][badge-jvm]
 ![badge][badge-ios]
