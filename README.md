@@ -681,6 +681,7 @@
 ![badge][badge-nodejs]
 ![badge][badge-linux]
 ![badge][badge-windows]
+![badge][badge-wasm]
 ![badge][badge-apple-silicon]
 ![badge][badge-ios]
 ![badge][badge-mac]
