@@ -1359,6 +1359,10 @@
  ![badge][badge-mac]
  ![badge][badge-js-ir]
 
+* [peekaboo](https://github.com/TEAM-PREAT/peekaboo) - Single & Multiple Image Selection and Maximum Image Count Setting Library for Compose Multiplatform (Android & iOS)
+![badge][badge-android]
+![badge][badge-ios]
+
 ### Command Line Interface
 
 * [Clikt](https://github.com/ajalt/clikt) - Multiplatform command line interface parsing for Kotlin  
