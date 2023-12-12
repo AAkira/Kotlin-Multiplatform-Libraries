@@ -1631,7 +1631,7 @@ fully covered API and a lot of additional DSLs on top of base API.
 ![badge][badge-watchos]
 ![badge][badge-windows]
 
-* [Multik](https://github.com/Kotlin/multik) - Multiplatform library for Kotlin, specializing in multidimensional array operations with features like static typing and dimensional consistency, offering high-speed mathematical and arithmetic operations, as well as linear algebra functionalities.
+* [Multik](https://github.com/Kotlin/multik) - Multiplatform library for Kotlin, specializing in multidimensional array operations with features like static typing and dimensional consistency, offering high-speed mathematical and arithmetic operations, as well as linear algebra functionalities.  
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-js]
