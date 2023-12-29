@@ -688,6 +688,20 @@
 ![badge][badge-watchos]
 ![badge][badge-tvos]
 
+* [kotlin-channel-event-bus](https://github.com/hoc081098/kotlin-channel-event-bus) - A Kotlin Multiplatform library that provides a simple event bus implementation using KotlinX Coroutines Channels. Multi-keys, multi-producers, single-consumer and thread-safe event bus backed by `kotlinx.coroutines.channels.Channel`s.  
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-js-ir]
+![badge][badge-nodejs]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-apple-silicon]
+
 #### Number
 
 * [kotlin-multiplatform-bignum](https://github.com/ionspin/kotlin-multiplatform-bignum) - A Kotlin multiplatform library for arbitrary precision arithmetics  
