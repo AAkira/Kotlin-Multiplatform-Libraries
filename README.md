@@ -477,6 +477,10 @@
 ![badge][badge-ios]
 ![badge][badge-mac]
 
+* [peekaboo](https://github.com/TEAM-PREAT/peekaboo) - Single & Multiple Image Selection and Maximum Image Count Setting Library for Compose Multiplatform (Android & iOS)
+![badge][badge-android]
+![badge][badge-ios]
+
 ### Audio
 
 * [korau](https://github.com/korlibs/korau) - Pure Kotlin WAV, MP3 and OGG vorbis decoders  
