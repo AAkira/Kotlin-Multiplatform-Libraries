@@ -1100,12 +1100,19 @@
 * [Ksoup](https://github.com/fleeksoft/ksoup) - HTML & XML Parser (Jsoup Alternative)  
 ![badge][badge-android]
 ![badge][badge-jvm]
+![badge][badge-nodejs]
+![badge][badge-linux]
+![badge][badge-windows]
 ![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
 
 * [RSS-Parser](https://github.com/prof18/RSS-Parser) - A Kotlin Multiplatform library to parse a RSS Feed  
 ![badge][badge-android]
 ![badge][badge-jvm]
 ![badge][badge-ios]
+![badge][badge-mac]
 
 ### Debug
 
