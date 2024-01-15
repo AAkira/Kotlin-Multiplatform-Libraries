@@ -1384,6 +1384,16 @@
  ![badge][badge-mac]
  ![badge][badge-js-ir]
 
+* [Wavy slider](https://github.com/mahozad/wavy-slider) - Animated squiggly slider (aka sperm) similar to the one in Android 13   
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+![badge][badge-js-ir]
+
 ### Command Line Interface
 
 * [Clikt](https://github.com/ajalt/clikt) - Multiplatform command line interface parsing for Kotlin  
