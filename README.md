@@ -1563,6 +1563,14 @@
 ![badge][badge-js]
 ![badge][badge-mac]
 
+* [Voyager](https://github.com/adrielcafe/voyager) - A multiplatform navigation library built for, and seamlessly integrated with, Jetpack Compose. Additionally, it features a Screenmodel, functioning similarly to a viewmodel.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-mac]
+![badge][badge-windows]
+
+
 #### Project templates 
 
 * [moko-template](https://github.com/icerockdev/moko-template) - Template project of a Mobile (Android & iOS) Kotlin MultiPlatform project with the MOKO libraries and modularized architecture   
