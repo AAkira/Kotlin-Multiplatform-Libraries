@@ -1570,7 +1570,6 @@
 ![badge][badge-mac]
 ![badge][badge-windows]
 
-
 #### Project templates 
 
 * [moko-template](https://github.com/icerockdev/moko-template) - Template project of a Mobile (Android & iOS) Kotlin MultiPlatform project with the MOKO libraries and modularized architecture   
