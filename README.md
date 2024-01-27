@@ -348,6 +348,11 @@
 ![badge][badge-android]
 ![badge][badge-ios]
 
+* [Kedis](https://github.com/domgew/kedis) - Redis client library for Kotlin Multiplatform (JVM + Native).  
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+
 #### FILE
 
 * [okio](https://github.com/square/okio) - A modern I/O library for Android, Java, and Kotlin Multiplatform.  
