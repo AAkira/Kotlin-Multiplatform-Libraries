@@ -634,6 +634,9 @@
 ![badge][badge-mac]
 
 * [kcron](https://github.com/Scogun/kcron-common) - Kotlin multiplatform Cron library  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js] 
 ![badge][badge-jvm]
 ![badge][badge-linux]
 ![badge][badge-mac]
