@@ -76,6 +76,10 @@
 ![badge][badge-jvm]
 ![badge][badge-linux]
 
+* [ktor-simple-cache](https://github.com/Scogun/ktor-simple-cache) - Easy-to-use lightweight library which adds configurable output cache support to [Ktor](https://github.com/ktorio/ktor), including [Memory](https://github.com/Scogun/ktor-simple-cache/tree/main/ktor-simple-memory-cache) and [Redis](https://github.com/Scogun/ktor-simple-cache/tree/main/ktor-simple-redis-cache) providers.  
+![badge][badge-android]
+![badge][badge-jvm]
+
 #### GraphQL
 
 * [apollo](https://www.apollographql.com/docs/android/essentials/get-started-multiplatform/) - Multiplatform official GraphQL client.  
