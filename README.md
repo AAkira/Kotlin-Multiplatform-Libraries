@@ -1316,6 +1316,15 @@
 ![badge][badge-ios]
 ![badge][badge-jvm]
 
+* [KOMM](https://github.com/Scogun/komm) - Kotlin Object Multiplatform Mapper which generates mapping function via KSP and supports multi-mapping, converters, resolvers, null-substitute etc.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-windows]
+
 ### GUI
 
 * [moko-widgets](https://github.com/icerockdev/moko-widgets) - Declarative UI and screens management in common code for mobile (android & ios) Kotlin Multiplatform development  
