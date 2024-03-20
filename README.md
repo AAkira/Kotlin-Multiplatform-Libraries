@@ -444,6 +444,16 @@
 
 ### Image
 
+* [Coil](https://github.com/coil-kt/coil) - Image loading for Android and Compose Multiplatform. v3 is compatible with KMP, currently in Alpha.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-wasm]
+![badge][badge-windows]
+
 * [korim](https://github.com/korlibs/korge/tree/main/korge-core#korim) - Kotlin cORoutines IMaging, Bitmap and Vector graphics for Multiplatform Kotlin   
 ![badge][badge-android]
 ![badge][badge-ios]
