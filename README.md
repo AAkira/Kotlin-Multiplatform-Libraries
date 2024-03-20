@@ -633,6 +633,16 @@
 ![badge][badge-jvm]
 ![badge][badge-mac]
 
+* [KDateTime](https://github.com/sunny-chung/kdatetime-multiplatform) - Date time library focusing on custom formatting, parsing, platform independence and interoperability.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-mac]
+![badge][badge-tvos]
+![badge][badge-watchos]
+![badge][badge-wasm]
+
 * [kcron](https://github.com/Scogun/kcron-common) - Kotlin multiplatform Cron library  
 ![badge][badge-jvm]
 ![badge][badge-linux]
