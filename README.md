@@ -134,6 +134,13 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 
+### Identity Wallet
+
+* [KMM VC Library](https://github.com/a-sit-plus/kmm-vc-library) - Kotlin Multiplatform library implementing W3C VC Data Model and ISO 18013-5 mDL.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-jvm]
+
 ### Repository
 
 * [Store](https://github.com/MobileNativeFoundation/Store) - A Kotlin Multiplatform library for building network-resilient applications.  
