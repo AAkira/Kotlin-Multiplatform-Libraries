@@ -1069,6 +1069,17 @@
 ![badge][badge-js-ir]
 ![badge][badge-apple-silicon]
 
+* [KmmResult](https://github.com/a-sit-plus/KmmResult) - Wrapper of `kotlin.Result` with KMM goodness.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+
 #### WebAssembly
 
 * [ktmpwasm](https://github.com/Yeicor/ktmpwasm) - A WebAssembly interpreter for Kotlin Multiplatform.  
