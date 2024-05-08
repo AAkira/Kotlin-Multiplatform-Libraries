@@ -481,6 +481,10 @@
 ![badge][badge-android]
 ![badge][badge-ios]
 
+* [KaptureX](https://github.com/estivensh4/kaptureX) - Camera and Video Library for Kotlin Multiplatform. 📸
+![badge][badge-android]
+![badge][badge-ios]
+
 ### Audio
 
 * [korau](https://github.com/korlibs/korau) - Pure Kotlin WAV, MP3 and OGG vorbis decoders  
