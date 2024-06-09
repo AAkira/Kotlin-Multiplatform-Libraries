@@ -591,17 +591,6 @@
 ![badge][badge-windows]
 ![badge][badge-watchos]
 
-* [klock](https://github.com/korlibs/klock) - Multiplatform Date and time library for Kotlin  
-![badge][badge-android]
-![badge][badge-ios]
-![badge][badge-js]
-![badge][badge-jvm]
-![badge][badge-linux]
-![badge][badge-mac]
-![badge][badge-tvos]
-![badge][badge-windows]
-![badge][badge-watchos]
-
 * [island-time](https://github.com/erikc5000/island-time) - A Kotlin Multiplatform library for working with dates and times  
 ![badge][badge-android]
 ![badge][badge-ios]
