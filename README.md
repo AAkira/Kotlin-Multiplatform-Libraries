@@ -1384,6 +1384,8 @@
  ![badge][badge-mac]
  ![badge][badge-js-ir]
 
+### Animation / UI
+
 * [Kottie](https://github.com/ismai117/kottie) - Compose Multiplatform animation library that parses Adobe After Effects animations. Inspired by Lottie
 ![badge][badge-android]
 ![badge][badge-ios]
