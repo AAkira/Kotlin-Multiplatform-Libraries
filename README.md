@@ -950,7 +950,11 @@
 
 #### Paging
 
-* [Multiplatform Paging](https://github.com/kuuuurt/multiplatform-paging) - Kotlin Multiplatform library for Pagination on Android and iOS  
+* ~~[Multiplatform Paging (Archived)](https://github.com/kuuuurt/multiplatform-paging) - Kotlin Multiplatform library for Pagination on Android and iOS~~  
+![badge][badge-android]
+![badge][badge-ios] 
+
+* [Multiplatform Paging](https://github.com/cashapp/multiplatform-paging) - A library that adds additional Kotlin/Multiplatform targets to AndroidX Paging, and provides UI components to use Paging on iOS.  
 ![badge][badge-android]
 ![badge][badge-ios]
 
