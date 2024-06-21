@@ -839,6 +839,11 @@
 ![badge][badge-js-ir]
 ![badge][badge-apple-silicon]
 
+* [KMP-Crypto](https://github.com/a-sit-plus/kmp-crypto) - KMP Crypto Datatypes & ASN.1 Parser+Encoder.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-jvm]
+
 #### String Utils
 
 * [FuzzyWuzzy-Kotlin](https://github.com/willowtreeapps/fuzzywuzzy-kotlin) - Fuzzy string matching on collections.  Port of python & java library.
