@@ -477,10 +477,6 @@
 ![badge][badge-ios]
 ![badge][badge-mac]
 
-* [peekaboo](https://github.com/TEAM-PREAT/peekaboo) - Single & Multiple Image Selection and Maximum Image Count Setting Library for Compose Multiplatform (Android & iOS)
-![badge][badge-android]
-![badge][badge-ios]
-
 ### Audio
 
 * [korau](https://github.com/korlibs/korau) - Pure Kotlin WAV, MP3 and OGG vorbis decoders  
@@ -691,20 +687,6 @@
 ![badge][badge-mac]
 ![badge][badge-watchos]
 ![badge][badge-tvos]
-
-* [kotlin-channel-event-bus](https://github.com/hoc081098/kotlin-channel-event-bus) - A Kotlin Multiplatform library that provides a simple event bus implementation using KotlinX Coroutines Channels. Multi-keys, multi-producers, single-consumer and thread-safe event bus backed by `kotlinx.coroutines.channels.Channel`s.  
-![badge][badge-android]
-![badge][badge-jvm]
-![badge][badge-js]
-![badge][badge-js-ir]
-![badge][badge-nodejs]
-![badge][badge-linux]
-![badge][badge-windows]
-![badge][badge-ios]
-![badge][badge-mac]
-![badge][badge-watchos]
-![badge][badge-tvos]
-![badge][badge-apple-silicon]
 
 #### Number
 
@@ -1100,19 +1082,12 @@
 * [Ksoup](https://github.com/fleeksoft/ksoup) - HTML & XML Parser (Jsoup Alternative)  
 ![badge][badge-android]
 ![badge][badge-jvm]
-![badge][badge-nodejs]
-![badge][badge-linux]
-![badge][badge-windows]
 ![badge][badge-ios]
-![badge][badge-mac]
-![badge][badge-watchos]
-![badge][badge-tvos]
 
 * [RSS-Parser](https://github.com/prof18/RSS-Parser) - A Kotlin Multiplatform library to parse a RSS Feed  
 ![badge][badge-android]
 ![badge][badge-jvm]
 ![badge][badge-ios]
-![badge][badge-mac]
 
 ### Debug
 
@@ -1665,6 +1640,18 @@ fully covered API and a lot of additional DSLs on top of base API.
 ![badge][badge-windows]
 ![badge][badge-mac]
 ![badge][badge-wasm]
+
+### Miscellaneous
+
+* [mavlink-kotlin](https://github.com/divyanshupundir/mavlink-kotlin) - A modern MAVLink library for Kotlin Multiplatform.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-windows]
 
 ## Contribute
 
