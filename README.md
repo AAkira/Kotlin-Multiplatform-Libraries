@@ -1359,9 +1359,19 @@
  ![badge][badge-mac]
  ![badge][badge-js-ir]
 
+* [Wavy slider](https://github.com/mahozad/wavy-slider) - Animated squiggly slider (aka sperm) similar to the one in Android 13   
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+![badge][badge-js-ir]
+
 ### Animation / UI
 
-* [Kottie](https://github.com/ismai117/kottie) - Compose Multiplatform animation library that parses Adobe After Effects animations. Inspired by Lottie
+* [Kottie](https://github.com/ismai117/kottie) - Compose Multiplatform animation library that parses Adobe After Effects animations. Inspired by Lottie  
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-jvm]
