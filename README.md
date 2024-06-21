@@ -348,6 +348,11 @@
 ![badge][badge-android]
 ![badge][badge-ios]
 
+* [Kedis](https://github.com/domgew/kedis) - Redis client library for Kotlin Multiplatform (JVM + Native).  
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+
 #### FILE
 
 * [okio](https://github.com/square/okio) - A modern I/O library for Android, Java, and Kotlin Multiplatform.  
@@ -476,10 +481,6 @@
 ![badge][badge-jvm]
 ![badge][badge-ios]
 ![badge][badge-mac]
-
-* [peekaboo](https://github.com/TEAM-PREAT/peekaboo) - Single & Multiple Image Selection and Maximum Image Count Setting Library for Compose Multiplatform (Android & iOS)
-![badge][badge-android]
-![badge][badge-ios]
 
 ### Audio
 
@@ -691,20 +692,6 @@
 ![badge][badge-mac]
 ![badge][badge-watchos]
 ![badge][badge-tvos]
-
-* [kotlin-channel-event-bus](https://github.com/hoc081098/kotlin-channel-event-bus) - A Kotlin Multiplatform library that provides a simple event bus implementation using KotlinX Coroutines Channels. Multi-keys, multi-producers, single-consumer and thread-safe event bus backed by `kotlinx.coroutines.channels.Channel`s.  
-![badge][badge-android]
-![badge][badge-jvm]
-![badge][badge-js]
-![badge][badge-js-ir]
-![badge][badge-nodejs]
-![badge][badge-linux]
-![badge][badge-windows]
-![badge][badge-ios]
-![badge][badge-mac]
-![badge][badge-watchos]
-![badge][badge-tvos]
-![badge][badge-apple-silicon]
 
 #### Number
 
@@ -963,7 +950,11 @@
 
 #### Paging
 
-* [Multiplatform Paging](https://github.com/kuuuurt/multiplatform-paging) - Kotlin Multiplatform library for Pagination on Android and iOS  
+* ~~[Multiplatform Paging (Archived)](https://github.com/kuuuurt/multiplatform-paging) - Kotlin Multiplatform library for Pagination on Android and iOS~~  
+![badge][badge-android]
+![badge][badge-ios] 
+
+* [Multiplatform Paging](https://github.com/cashapp/multiplatform-paging) - A library that adds additional Kotlin/Multiplatform targets to AndroidX Paging, and provides UI components to use Paging on iOS.  
 ![badge][badge-android]
 ![badge][badge-ios]
 
@@ -1100,19 +1091,12 @@
 * [Ksoup](https://github.com/fleeksoft/ksoup) - HTML & XML Parser (Jsoup Alternative)  
 ![badge][badge-android]
 ![badge][badge-jvm]
-![badge][badge-nodejs]
-![badge][badge-linux]
-![badge][badge-windows]
 ![badge][badge-ios]
-![badge][badge-mac]
-![badge][badge-watchos]
-![badge][badge-tvos]
 
 * [RSS-Parser](https://github.com/prof18/RSS-Parser) - A Kotlin Multiplatform library to parse a RSS Feed  
 ![badge][badge-android]
 ![badge][badge-jvm]
 ![badge][badge-ios]
-![badge][badge-mac]
 
 ### Debug
 
@@ -1384,6 +1368,23 @@
  ![badge][badge-mac]
  ![badge][badge-js-ir]
 
+* [Wavy slider](https://github.com/mahozad/wavy-slider) - Animated squiggly slider (aka sperm) similar to the one in Android 13   
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+![badge][badge-js-ir]
+
+### Animation / UI
+
+* [Kottie](https://github.com/ismai117/kottie) - Compose Multiplatform animation library that parses Adobe After Effects animations. Inspired by Lottie  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-jvm]
+
 ### Command Line Interface
 
 * [Clikt](https://github.com/ajalt/clikt) - Multiplatform command line interface parsing for Kotlin  
@@ -1563,6 +1564,13 @@
 ![badge][badge-js]
 ![badge][badge-mac]
 
+* [Voyager](https://github.com/adrielcafe/voyager) - A multiplatform navigation library built for, and seamlessly integrated with, Jetpack Compose. Additionally, it features a Screenmodel, functioning similarly to a viewmodel.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-mac]
+![badge][badge-windows]
+
 * [solivagant](https://github.com/hoc081098/solivagant) - Compose Multiplatform Navigation - Pragmatic, type safety navigation for Compose Multiplatform. Based on Freeletics Khonshu Navigation. ViewModel, SavedStateHandle, Lifecycle, Multi-Backstacks, Transitions, Back-press handling, and more...  
 ![badge][badge-android]
 ![badge][badge-ios]
@@ -1674,6 +1682,18 @@ fully covered API and a lot of additional DSLs on top of base API.
 ![badge][badge-windows]
 ![badge][badge-mac]
 ![badge][badge-wasm]
+
+### Miscellaneous
+
+* [mavlink-kotlin](https://github.com/divyanshupundir/mavlink-kotlin) - A modern MAVLink library for Kotlin Multiplatform.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-windows]
 
 ## Contribute
 
