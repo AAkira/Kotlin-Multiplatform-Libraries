@@ -1553,6 +1553,8 @@
 ![badge][badge-ios]
 ![badge][badge-jvm]
 ![badge][badge-js]
+![badge][badge-wasm]
+![badge][badge-nodejs]
 ![badge][badge-mac]
 ![badge][badge-tvos]
 ![badge][badge-watchos]
