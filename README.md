@@ -1119,6 +1119,11 @@
 ![badge][badge-jvm]
 ![badge][badge-ios]
 
+* [JsonPath](https://github.com/a-sit-plus/jsonpath) - Kotlin Multiplatform Library for using Json Paths as defined in [RFC9535](https://datatracker.ietf.org/doc/rfc9535).  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-jvm]
+
 ### Debug
 
 #### Logging
