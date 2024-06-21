@@ -1571,6 +1571,15 @@
 ![badge][badge-mac]
 ![badge][badge-windows]
 
+* [solivagant](https://github.com/hoc081098/solivagant) - Compose Multiplatform Navigation - Pragmatic, type safety navigation for Compose Multiplatform. Based on Freeletics Khonshu Navigation. ViewModel, SavedStateHandle, Lifecycle, Multi-Backstacks, Transitions, Back-press handling, and more...  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-mac]
+![badge][badge-tvos]
+![badge][badge-watchos]
+
 #### Project templates 
 
 * [moko-template](https://github.com/icerockdev/moko-template) - Template project of a Mobile (Android & iOS) Kotlin MultiPlatform project with the MOKO libraries and modularized architecture   
