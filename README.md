@@ -76,6 +76,11 @@
 ![badge][badge-jvm]
 ![badge][badge-linux]
 
+* [ktor-simple-cache](https://github.com/Scogun/ktor-simple-cache) - Easy-to-use lightweight library which adds configurable output cache support to [Ktor](https://github.com/ktorio/ktor), including [Memory](https://github.com/Scogun/ktor-simple-cache/tree/main/ktor-simple-memory-cache) and [Redis](https://github.com/Scogun/ktor-simple-cache/tree/main/ktor-simple-redis-cache) providers.  
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+
 #### GraphQL
 
 * [apollo](https://www.apollographql.com/docs/android/essentials/get-started-multiplatform/) - Multiplatform official GraphQL client.  
@@ -641,6 +646,9 @@
 ![badge][badge-wasm]
 
 * [kcron](https://github.com/Scogun/kcron-common) - Kotlin multiplatform Cron library  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js] 
 ![badge][badge-jvm]
 ![badge][badge-linux]
 ![badge][badge-mac]
@@ -1334,6 +1342,15 @@
 * [KMP-ComposeUIViewController](https://github.com/GuilhE/KMP-ComposeUIViewController) - KSP library for generating ComposeUIViewController and UIViewControllerRepresentable files when using Compose Multiplatform for iOS  
 ![badge][badge-ios]
 ![badge][badge-jvm]
+
+* [KOMM](https://github.com/Scogun/komm) - Kotlin Object Multiplatform Mapper which generates mapping function via KSP and supports multi-mapping, converters, resolvers, null-substitute etc.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-windows]
 
 ### GUI
 
