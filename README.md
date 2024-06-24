@@ -252,7 +252,7 @@
 ![badge][badge-watchos]
 ![badge][badge-windows]
 
-* [Room](https://developer.android.com/kotlin/multiplatform/room) - Official Android Room for Kotlin Multiplatform.
+* [Room](https://developer.android.com/kotlin/multiplatform/room) - Official Android Room for Kotlin Multiplatform.  
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-jvm]
