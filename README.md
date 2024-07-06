@@ -1712,10 +1712,15 @@
 #### tgbotapi
 
 * [tgbotapi](https://github.com/InsanusMokrassar/TelegramBotAPI) - Strongly-typed API wrapper for [Telegram Bot API](https://core.telegram.org/bots/api) with
-fully covered API and a lot of additional DSLs on top of base API.
-
+fully covered API and a lot of additional DSLs on top of base API.  
 ![badge][badge-jvm]
-![badge][badge-js]![badge][badge-js-ir]
+![badge][badge-js]
+![badge][badge-js-ir]
+
+* [kbsky](https://github.com/uakihir0/kbsky) - [Bluesky/ATProtocol](https://atproto.com/) library for kotlin multiplatform.  
+![badge][badge-jvm]
+![badge][badge-ios]
+![badge][badge-mac]
 
 ### Math
 
