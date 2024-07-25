@@ -1445,7 +1445,7 @@
 ![badge][badge-js]
 ![badge][badge-wasm]
 
-* [Compose Theme](https://composetheme.com) - The API to your Compose design system
+* [Compose Theme](https://github.com/composablehorizons/composetheme) - The API to your Compose design system
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-jvm]
