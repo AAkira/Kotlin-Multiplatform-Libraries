@@ -1438,6 +1438,21 @@
 ![badge][badge-mac]
 ![badge][badge-js-ir]
 
+* [Composables Core](https://github.com/composablehorizons/composables-core) - Unstyled, accessible components for Compose Multiplatform
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-wasm]
+
+* [Compose Theme](https://composetheme.com) - The API to your Compose design system
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-wasm]
+
+
 ### Animation / UI
 
 * [Kottie](https://github.com/ismai117/kottie) - Compose Multiplatform animation library that parses Adobe After Effects animations. Inspired by Lottie  
