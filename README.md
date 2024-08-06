@@ -1127,6 +1127,15 @@
 ![badge][badge-android]
 ![badge][badge-jvm]
 ![badge][badge-ios]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-apple-silicon]
+![badge][badge-js]
+![badge][badge-nodejs]
+![badge][badge-wasm]
+![badge][badge-linux]
+![badge][badge-windows]
 
 * [KtXml](https://github.com/kobjects/ktxml) - XML Parser (Basically a KXml2 port to Kotlin)  
 ![badge][badge-android]
