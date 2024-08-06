@@ -233,6 +233,18 @@
 ![badge][badge-js-ir]
 ![badge][badge-apple-silicon]
 
+* [multi<sup>2</sup>–<sub>base</sub>](https://github.com/a-sit-plus/multibase) - Mutlibase and UVarInt encoding library. Verified against offical test vectors.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+
+
 * [parcelize](https://github.com/05nelsonm/component-parcelize) - Implement Android `Parcelable` from common code.  
 ![badge][badge-android]
 ![badge][badge-jvm]
