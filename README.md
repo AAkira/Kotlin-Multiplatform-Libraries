@@ -1585,6 +1585,15 @@
 ![badge][badge-jvm]
 ![badge][badge-js]
 
+* [VisualFSM](https://github.com/Kontur-Mobile/VisualFSM) - VisualFSM is a Kotlin Multiplatform library for implements an FSM-based (Finite-state machine) MVI pattern and a set of tools for visualization and analysis of FSM's diagram of states.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-jvm]
+![badge][badge-mac]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-js]
+
 * [Premo](https://github.com/dmdevgo/Premo) — Presentation Model (aka View Model) and Navigation. Focus on writing logic instead of solving common and boring UI related issues: lifecycle, persistence, navigation, etc.   
 ![badge][badge-android]
 ![badge][badge-ios]
