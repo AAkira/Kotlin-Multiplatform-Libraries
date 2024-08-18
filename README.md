@@ -141,7 +141,7 @@
 
 ### Identity Wallet
 
-* [KMM VC Library](https://github.com/a-sit-plus/kmm-vc-library) - Kotlin Multiplatform library implementing W3C VC Data Model and ISO 18013-5 mDL.  
+* [VC-K](https://github.com/a-sit-plus/vck) - Kotlin Multiplatform library implementing W3C VC Data Model and ISO 18013-5 mDL.  
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-jvm]
@@ -860,7 +860,7 @@
 ![badge][badge-js-ir]
 ![badge][badge-apple-silicon]
 
-* [KMP-Crypto](https://github.com/a-sit-plus/kmp-crypto) - KMP Crypto Datatypes & ASN.1 Parser+Encoder.  
+* [Signum](https://github.com/a-sit-plus/signum) - Kotlin Multiplatform Crypto/PKI Library and ASN1 Parser + Encoder.  
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-jvm]
@@ -1165,7 +1165,7 @@
 ![badge][badge-jvm]
 ![badge][badge-ios]
 
-* [JsonPath](https://github.com/a-sit-plus/jsonpath) - Kotlin Multiplatform Library for using Json Paths as defined in [RFC9535](https://datatracker.ietf.org/doc/rfc9535).  
+* [JsonPath4K](https://github.com/a-sit-plus/jsonpath4k) - Kotlin Multiplatform Library for using Json Paths as defined in [RFC9535](https://datatracker.ietf.org/doc/rfc9535).  
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-jvm]
