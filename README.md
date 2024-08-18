@@ -1035,6 +1035,21 @@
 
 #### Monads
 
+* [ItsOk](https://github.com/PaoloConte/kotlin-itsok) - A new take on the `Result` monad for clean error handling.   
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-nodejs]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-wasm]
+![badge][badge-js-ir]
+![badge][badge-apple-silicon]
+
 * [Kotlin utilities](https://czerwinski.it/projects/kotlin-util/) - Scala utility types: `Option`, `Either`, `Try` for Kotlin Multiplatform.  
 ![badge][badge-android]
 ![badge][badge-ios]
