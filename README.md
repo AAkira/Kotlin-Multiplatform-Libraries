@@ -1011,7 +1011,7 @@
 ![badge][badge-windows]
 ![badge][badge-mac]
 
-* [kotlin-native-aws-lambda-runtime] (https://github.com/trueangle/kotlin-native-aws-lambda-runtime) - A runtime for executing AWS Lambda Functions written in Kotlin/Native, designed to reduce cold start issues common with the JVM platform.  
+* [kotlin-native-aws-lambda-runtime](https://github.com/trueangle/kotlin-native-aws-lambda-runtime) - A runtime for executing AWS Lambda Functions written in Kotlin/Native, designed to reduce cold start issues common with the JVM platform.  
 ![badge][badge-linux]
 ![badge][badge-mac]
 
