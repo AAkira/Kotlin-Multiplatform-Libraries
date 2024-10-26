@@ -1480,6 +1480,13 @@
 ![badge][badge-linux]
 ![badge][badge-windows]
 
+* [Haze](https://github.com/chrisbanes/haze) - A blurring modifier for Compose Multiplatform/Jetpack Compose.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-wasm]
+
 ### Animation / UI
 
 * [Kottie](https://github.com/ismai117/kottie) - Compose Multiplatform animation library that parses Adobe After Effects animations. Inspired by Lottie  
