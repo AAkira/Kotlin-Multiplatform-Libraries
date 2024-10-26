@@ -1480,6 +1480,17 @@
 ![badge][badge-linux]
 ![badge][badge-windows]
 
+* [Lets-Plot Skia Frontend (official)](https://github.com/JetBrains/lets-plot) - a Kotlin Multiplatform library that allows you to embed
+[Lets-Plot](https://github.com/JetBrains/lets-plot) charts in a Compose Multiplatform application. [Lets-Plot](https://github.com/JetBrains/lets-plot) is a multiplatform plotting library based on [The Grammar of Graphics](https://www.goodreads.com/book/show/2549408.The_Grammar_of_Graphics).  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+![badge][badge-wasm]
+
 ### Animation / UI
 
 * [Kottie](https://github.com/ismai117/kottie) - Compose Multiplatform animation library that parses Adobe After Effects animations. Inspired by Lottie  
