@@ -1486,12 +1486,6 @@
 ![badge][badge-android]
 ![badge][badge-ios]
 
-### Device 
-
-* [KScan](https://github.com/ismai117/KScan) - KScan is a Compose Multiplatform library that makes it easy to scan barcodes in your apps 
-![badge][badge-android]
-![badge][badge-ios]
-
 ### Command Line Interface
 
 * [Clikt](https://github.com/ajalt/clikt) - Multiplatform command line interface parsing for Kotlin  
@@ -1705,6 +1699,12 @@
 ![badge][badge-ios]
 
 * [KMMT](https://github.com/jittya/KMMT) - KMMT is a Multi-Module KMM based project template designed to simplify the KMM development. It uses a simplified approach that can be shared both in android and iOS easily. This template include network module, persistence module, resource module, analytics module ( with ios native library integration), domain module, presenter module etc.  
+![badge][badge-android]
+![badge][badge-ios]
+
+### Device 
+
+* [KScan](https://github.com/ismai117/KScan) - Compose Multiplatform library that makes it easy to scan barcodes in your apps 
 ![badge][badge-android]
 ![badge][badge-ios]
 
