@@ -1487,7 +1487,7 @@
 ![badge][badge-ios]
 ![badge][badge-jvm]
 ![badge][badge-js]
-![badge][badge-wasmJs]
+![badge][badge-wasm]
 
 ### Command Line Interface
 
