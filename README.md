@@ -1482,13 +1482,13 @@
 
 ### Animation / UI
 
-* [Kottie](https://github.com/ismai117/kottie) - KScan is a Compose Multiplatform library that makes it easy to scan barcodes in your apps 
+* [Kottie](https://github.com/ismai117/kottie) - Compose Multiplatform animation library that parses Adobe After Effects animations. Inspired by Lottie
 ![badge][badge-android]
 ![badge][badge-ios]
 
 ### Device 
 
-* [KScan](https://github.com/ismai117/KScan) - Compose Multiplatform animation library that parses Adobe After Effects animations. Inspired by Lottie
+* [KScan](https://github.com/ismai117/KScan) - KScan is a Compose Multiplatform library that makes it easy to scan barcodes in your apps 
 ![badge][badge-android]
 ![badge][badge-ios]
 
