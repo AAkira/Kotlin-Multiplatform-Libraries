@@ -20,6 +20,7 @@
 * [Build & Development Tools](#build--development-tools)
 * [Artificial Intelligence](#artificial-intelligence)
 * [Social](#social)
+* [Health](#health)
 
 ## Libraries
 
@@ -1777,6 +1778,13 @@ fully covered API and a lot of additional DSLs on top of base API.
 ![badge][badge-jvm]
 ![badge][badge-ios]
 ![badge][badge-mac]
+
+### Health
+
+* [KHealth](https://github.com/shubhamsinghshubham777/KHealth) - A Kotlin Multiplatform wrapper over Android's [Health Connect](https://developer.android.com/health-and-fitness/guides/health-connect) and Apple's [HealthKit](https://developer.apple.com/documentation/healthkit) APIs.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-watchos]
 
 ### Math
 
