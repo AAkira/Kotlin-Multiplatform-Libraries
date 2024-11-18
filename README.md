@@ -748,7 +748,7 @@
 ![badge][badge-ios]
 ![badge][badge-watchos]
 ![badge][badge-tvos]
-![badge][badge-macos]
+![badge][badge-mac]
 ![badge][badge-windows]
 ![badge][badge-linux]
 
