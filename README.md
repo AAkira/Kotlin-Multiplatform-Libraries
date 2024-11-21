@@ -300,6 +300,13 @@
 ![badge][badge-ios]
 ![badge][badge-jvm]
 
+* [sqlx4k](https://github.com/smyrgeorge/sqlx4k) - A high-performance, non-blocking database driver for PostgreSQL, MySQL, and SQLite, written for Kotlin Native.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+
 #### NoSQL
 
 * [Realm](https://github.com/realm/realm-kotlin) - Kotlin Multiplatform and Android SDK for the Realm Mobile Database: Build Better Apps Faster.  
