@@ -1524,6 +1524,10 @@
 ![badge][badge-js]
 
 ### Architecture
+* [KmpEssentials](https://github.com/TheArchitect123/KmpEssentials) - KmpEssentials is a library that contains apis (40+ Modules) to accelerate your development. Everything from managing the Battery, File System, getting Package information, Biometrics, or taking Screenshots & Photos/Videos.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-watchos]
 
 * [kompass](https://github.com/sellmair/kompass) - Kotlin Multiplatform Router for Android and iOS  
 
