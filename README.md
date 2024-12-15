@@ -477,6 +477,18 @@
 ![badge][badge-watchos]
 ![badge][badge-tvos]
 
+* [Ivy DI](https://github.com/Ivy-Apps/di) - A simple and lightweight runtime Dependency Injection (DI) container for Kotlin Multiplatform.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-wasm]
+
 ### Image
 
 * [korim](https://github.com/korlibs/korge/tree/main/korge-core#korim) - Kotlin cORoutines IMaging, Bitmap and Vector graphics for Multiplatform Kotlin   
