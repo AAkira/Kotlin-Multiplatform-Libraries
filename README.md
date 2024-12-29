@@ -1499,6 +1499,8 @@
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-jvm]
+![badge][badge-js]
+![badge][badge-wasm]
 
 ### Command Line Interface
 
@@ -1709,6 +1711,12 @@
 ![badge][badge-mac]
 ![badge][badge-tvos]
 ![badge][badge-watchos]
+
+### Device 
+
+* [KScan](https://github.com/ismai117/KScan) - Compose Multiplatform library that makes it easy to scan barcodes in your apps 
+![badge][badge-android]
+![badge][badge-ios]
 
 #### Project templates 
 
