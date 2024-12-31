@@ -1710,6 +1710,11 @@
 ![badge][badge-tvos]
 ![badge][badge-watchos]
 
+* [hakate](https://github.com/kigawa-net/hakate) - A state management library. It can manage state with dependency.  
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-js]
+
 #### Project templates 
 
 * [moko-template](https://github.com/icerockdev/moko-template) - Template project of a Mobile (Android & iOS) Kotlin MultiPlatform project with the MOKO libraries and modularized architecture   
