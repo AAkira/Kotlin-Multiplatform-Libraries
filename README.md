@@ -1842,6 +1842,10 @@ fully covered API and a lot of additional DSLs on top of base API.
 ![badge][badge-watchos]
 ![badge][badge-windows]
 
+* [KMP-Places-Autocomplete](https://github.com/ngallazzi/KMP-Places-Autocomplete) - A lightweight and ready to use API to search places for Compose Multiplatform  
+![badge][badge-android]
+![badge][badge-ios]
+
 ## Contribute
 
 Welcome contribute!
