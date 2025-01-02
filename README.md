@@ -1493,6 +1493,11 @@
 ![badge][badge-linux]
 ![badge][badge-windows]
 
+* [Color Picker](https://github.com/MohammedAlaaMorsi/compose-multiplatform-color-picker) - 🎨 Color Picker for Kotlin Multiplatform  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-jvm]
+
 ### Animation / UI
 
 * [Kottie](https://github.com/ismai117/kottie) - Compose Multiplatform animation library that parses Adobe After Effects animations. Inspired by Lottie  
