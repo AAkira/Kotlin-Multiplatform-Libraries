@@ -20,6 +20,7 @@
 * [Build & Development Tools](#build--development-tools)
 * [Artificial Intelligence](#artificial-intelligence)
 * [Social](#social)
+* [Health](#health)
 
 ## Libraries
 
@@ -476,6 +477,18 @@
 ![badge][badge-watchos]
 ![badge][badge-tvos]
 
+* [Ivy DI](https://github.com/Ivy-Apps/di) - A simple and lightweight runtime Dependency Injection (DI) container for Kotlin Multiplatform.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+![badge][badge-wasm]
+
 ### Image
 
 * [korim](https://github.com/korlibs/korge/tree/main/korge-core#korim) - Kotlin cORoutines IMaging, Bitmap and Vector graphics for Multiplatform Kotlin   
@@ -747,7 +760,7 @@
 ![badge][badge-ios]
 ![badge][badge-watchos]
 ![badge][badge-tvos]
-![badge][badge-macos]
+![badge][badge-mac]
 ![badge][badge-windows]
 ![badge][badge-linux]
 
@@ -1530,6 +1543,10 @@
 ![badge][badge-js]
 
 ### Architecture
+* [KmpEssentials](https://github.com/TheArchitect123/KmpEssentials) - KmpEssentials is a library that contains apis (40+ Modules) to accelerate your development. Everything from managing the Battery, File System, getting Package information, Biometrics, or taking Screenshots & Photos/Videos.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-watchos]
 
 * [kompass](https://github.com/sellmair/kompass) - Kotlin Multiplatform Router for Android and iOS  
 
@@ -1700,6 +1717,11 @@
 ![badge][badge-tvos]
 ![badge][badge-watchos]
 
+* [hakate](https://github.com/kigawa-net/hakate) - A state management library. It can manage state with dependency.  
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-js]
+
 #### Project templates 
 
 * [moko-template](https://github.com/icerockdev/moko-template) - Template project of a Mobile (Android & iOS) Kotlin MultiPlatform project with the MOKO libraries and modularized architecture   
@@ -1784,6 +1806,13 @@ fully covered API and a lot of additional DSLs on top of base API.
 ![badge][badge-jvm]
 ![badge][badge-ios]
 ![badge][badge-mac]
+
+### Health
+
+* [KHealth](https://github.com/shubhamsinghshubham777/KHealth) - A Kotlin Multiplatform wrapper over Android's [Health Connect](https://developer.android.com/health-and-fitness/guides/health-connect) and Apple's [HealthKit](https://developer.apple.com/documentation/healthkit) APIs.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-watchos]
 
 ### Math
 
