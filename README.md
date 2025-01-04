@@ -306,6 +306,16 @@
 ![badge][badge-android]
 ![badge][badge-ios]
 
+* [Re.This](https://github.com/vendelieu/re.this) - Kotlin Multiplatform Redis Client: coroutine-based, DSL-powered, and easy to use.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+![badge][badge-watchos]
+![badge][badge-tvos]
+
 * [Kotbase](https://github.com/jeffdgr8/kotbase) - Kotlin Multiplatform library for Couchbase Lite—a lightweight, embedded, syncable, NoSQL database  
 ![badge][badge-android]
 ![badge][badge-jvm]
