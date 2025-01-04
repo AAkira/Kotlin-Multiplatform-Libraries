@@ -132,7 +132,7 @@
 ![badge][badge-mac]
 ![badge][badge-js-ir]
 
-* [Spraypaint.Kt](https://github.com/maicol07/spraypaintkt) - Kotlin Multiplatform JSON:API client inspired by Spraypaint.JS
+* [Spraypaint.Kt](https://github.com/maicol07/spraypaintkt) - Kotlin Multiplatform JSON:API client inspired by Spraypaint.JS.  
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-js]
