@@ -1463,6 +1463,10 @@
 ![badge][badge-linux]
 ![badge][badge-windows]
 
+* [koalaplot](https://github.com/KoalaPlot/koalaplot-core)) - draw plots in Compose Muiltplafrom 
+
+
+
 * [typist-cmp](https://github.com/zeeshanali-k/typist-cmp) - A Highly Customisable Typing Animation Library for Compose Multiplatform (Android & iOS)  
 ![badge][badge-android]
 ![badge][badge-ios]
