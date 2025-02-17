@@ -21,6 +21,7 @@
 * [Artificial Intelligence](#artificial-intelligence)
 * [Social](#social)
 * [Health](#health)
+* [Video Player](#VideoPlayer)
 
 ## Libraries
 
@@ -1806,6 +1807,12 @@ fully covered API and a lot of additional DSLs on top of base API.
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-watchos]
+
+### VideoPlayer
+* [ComposeMultiplatformMediaPlayer](https://github.com/Chaintech-Network/ComposeMultiplatformMediaPlayer) - A Compose Multiplatform library for seamless media playback, including video, reels, audio, YouTube integration, thumbnails, and HLS m3u8 support, with customizable controls.
+  ![badge-android]
+  ![badge-ios]
+  ![badge-desktop](http://img.shields.io/badge/desktop-FF9500.svg?style=flat)
 
 ### Math
 
