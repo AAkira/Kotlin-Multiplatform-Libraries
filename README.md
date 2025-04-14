@@ -1785,6 +1785,16 @@
 ![badge][badge-ios]
 ![badge][badge-mac]
 
+#### Tokenizer
+* [huggingface-tokenizers-kmp](https://github.com/zhufucdev/huggingface-tokenizers-kmp) - Kotlin Multiplatform binding to the 🤗 Tokenizers.
+
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-windows]
+
 ### Social
 
 #### tgbotapi
