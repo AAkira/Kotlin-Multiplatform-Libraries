@@ -21,6 +21,7 @@
 * [Artificial Intelligence](#artificial-intelligence)
 * [Social](#social)
 * [Health](#health)
+* [Notifications](#notifications)
 
 ## Libraries
 
@@ -1806,6 +1807,16 @@ fully covered API and a lot of additional DSLs on top of base API.
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-watchos]
+
+### Notifications
+
+* [KMPNotifier](https://github.com/mirzemehdi/KMPNotifier) - A Kotlin Multiplatform Push Notification Library.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-mac]
+![badge][badge-windows]
+![badge][badge-wasm]
 
 ### Math
 
