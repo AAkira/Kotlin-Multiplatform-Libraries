@@ -1493,6 +1493,15 @@
 ![badge][badge-linux]
 ![badge][badge-windows]
 
+* [Kdomskia](https://github.com/kdomskia/kdomskia) - Create Web (DOM), Mobile and Desktop apps. Built on top of Compose Multiplatform.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-windows]
+
 ### Animation / UI
 
 * [Kottie](https://github.com/ismai117/kottie) - Compose Multiplatform animation library that parses Adobe After Effects animations. Inspired by Lottie  
