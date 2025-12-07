@@ -596,6 +596,10 @@
 ![badge][badge-android]
 ![badge][badge-ios]
 
+* [KMP TaskManager](https://github.com/vietnguyentuan2019/KMPTaskManager) - Unified background task scheduler for Android (WorkManager) and iOS (BGTaskScheduler). Supports 9 trigger types, task chains, and smart retry policies.
+![badge][badge-android]
+![badge][badge-ios]
+
 * [Koru](https://github.com/FutureMind/koru) - Coroutine wrappers for Kotlin Native generated from annotations.  
 ![badge][badge-android]
 ![badge][badge-ios]
