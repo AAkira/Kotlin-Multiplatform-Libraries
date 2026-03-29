@@ -518,7 +518,7 @@
 ![badge][badge-js-ir]
 ![badge][badge-apple-silicon]
 
-* [Kim - Kotlin Image Metadata](https://github.com/Ashampoo/kim) - Kotlin Multiplatform library for reading and writing image metadata.  
+* [Kim - Kotlin Image Metadata](https://github.com/StefanOltmann/kim) - Kotlin Multiplatform library for reading and writing image metadata.  
 ![badge][badge-android]
 ![badge][badge-jvm]
 ![badge][badge-ios]
@@ -1155,7 +1155,7 @@
 
 #### Metadata
 
-* [XMP Core for Kotlin Multiplatform](https://github.com/Ashampoo/xmpcore) - Kotlin Multiplatform port of Adobe's XMP SDK.  
+* [XMP Core for Kotlin Multiplatform](https://github.com/StefanOltmann/xmpcore) - Kotlin Multiplatform port of Adobe's XMP SDK.  
 ![badge][badge-android]
 ![badge][badge-jvm]
 ![badge][badge-ios]
