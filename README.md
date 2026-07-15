@@ -1198,6 +1198,15 @@
 ![badge][badge-ios]
 ![badge][badge-jvm]
 
+#### Authentication
+
+* [Koncierge](https://github.com/Scogun/koncierge) - Biometric API for Kotlin Multiplatform  
+![badge][badge-android]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+
 ### Debug
 
 #### Logging
