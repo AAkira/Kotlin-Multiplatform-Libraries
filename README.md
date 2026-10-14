@@ -140,6 +140,12 @@
 ![badge][badge-js]
 ![badge][badge-jvm]
 
+* [komposeauth](https://github.com/pitampoudel/komposeauth) - Self-hosted OAuth 2.1 / OpenID Connect server with a Kotlin Multiplatform client SDK: Ktor token plugin, passkeys, Google/Apple sign-in, OTP and Compose UI.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-jvm]
+![badge][badge-wasm]
+
 ### Identity Wallet
 
 * [VC-K](https://github.com/a-sit-plus/vck) - Kotlin Multiplatform library implementing W3C VC Data Model and ISO 18013-5 mDL.  
